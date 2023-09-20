@@ -1,0 +1,172 @@
+import pandas as pd
+import plotly.express as px
+import numpy as np
+pd.set_option('expand_frame_repr', False)
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
+
+df = pd.read_csv('weatherAUS.csv')
+
+
+def printSep(s='-'):
+    print()
+    print(f"{'-' * 25}{s}{'-' * (50 - len(s))}")
+    print()
+
+
+def printHeader(s="Header"):
+    print('*' * 75)
+    print(f"{'*' * 25}{s}{'*' * (50 - len(s))}")
+    print('*' * 75)
+
+
+def test(df):
+    df['Year'] = df['Date'].apply(lambda x: x[:4])
+    df['Day'] = "0000-" + df['Date'].apply(lambda x: x[5:])
+    gby = df.groupby('Day')
+    fig = px.scatter(x=df['Day'].unique(), y=gby['MaxTemp'].mean())
+    fig.show()
+
+
+def BasicInfo(df):
+    ################## Basic Info ###########################3
+    print("Basic Infomation")
+    ## First Dot
+    printSep(1)
+    df['ConvertedDate'] = pd.to_datetime(df['Date'])
+    print(f"{'Start Day':^20}{df['ConvertedDate'].min().date()}")
+    print(f"{'End Day': ^20}{df['ConvertedDate'].max().date()}")
+
+    ## Second Dot
+    printSep(2)
+    df['Month'] = df['Date'].apply(lambda x: x[5:7])
+    avgMinTemp = df.groupby(df['Month'])['MinTemp'].mean()
+    print(f"{'Average MinTemp by' : ^20}{avgMinTemp}")
+
+    ## Third Dot
+    printSep("3. fig shown")
+    fig = px.bar(x=range(1, 13), y=avgMinTemp)
+    fig.update_xaxes(title_text="Month")
+    fig.update_yaxes(title_text="Avg Min Temperature in C")
+
+    # fig.show()
+    ## Fourth Dot
+    printSep("4")
+    print(f"{'Number of City': ^20}{len(df['Location'].unique())}")
+
+    # avgRain = -np.sort(-df.groupby(df['Location'])['Rainfall'].mean())
+    print()
+    avgRain = pd.Series(df.groupby(['Location'])['Rainfall'].mean())
+    avgRain = avgRain.sort_values(ascending=False)
+    print(f"{'Top five Rainiest by ':^20}{avgRain.head(5)}")
+
+    ## Fifth Dot
+    printSep(5)
+
+    print(f"{'Min Pressure9am':^20}{df['Pressure9am'].min()}")
+    print(f"{'Avg Pressure9am': ^20}{df['Pressure9am'].mean()}")
+    print(f"{'Max Pressure9am':^20}{df['Pressure9am'].max()}")
+
+    print(f"{'Min Cloud9am':^20}{df['Cloud9am'].min()}")
+    print(f"{'Avg Cloud9am': ^20}{df['Cloud9am'].mean()}")
+    print(f"{'Max Cloud9am':^20}{df['Cloud9am'].max()}")
+
+    print(f"{'Mode Temp':^20}{df['Temp9am'].mode()}")
+
+
+def firstCorr(df):
+    printHeader("Correlation")
+    printSep("First Cor")
+
+    # First dot
+
+    corrP = df[['MinTemp', 'Rainfall']].corr(method='pearson')
+    print(f"{'Pearson':^20}\n{corrP}")
+    corrS = df[['MinTemp', 'Rainfall']].corr(method='spearman')
+    print(f"\n{'Spearson':^20}\n{corrS}")
+
+    fig = px.scatter(df, 'MinTemp', 'Rainfall')
+    # fig.show()
+
+    print(f"\nThe correlation between MinTemp and Rainfall is {round(corrS['MinTemp'].values[1], 3)} according \n"
+          f"to spearman method and {round(corrP['MinTemp'].values[1], 3)} using pearson, Both of which is low. \n"
+          f"It indicates that the correlation between these two is not strong")
+
+def secCorr(df):
+    print(df['Location'].unique())
+
+
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix, accuracy_score
+
+def logitReg(x, y):
+    classifier = LogisticRegression()
+    classifier.max_iter = 10 ** 6
+
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.05)
+    classifier.fit(x_train, y_train)
+    y_pred = classifier.predict(x_test)
+
+    print(f"Feature: {x.columns.values}")
+    print(confusion_matrix(y_test, y_pred))
+    print(f'Accuracy = {str(accuracy_score(y_test, y_pred))}')
+
+
+def part1(df):
+    y = df['RainTomorrow']
+    df['RainMorrowLogit'] = y.apply(lambda x: 0 if x == "No" else 1)
+    x = df[['Evaporation', 'Rainfall', 'Humidity3pm', 'Humidity9am',
+            'Cloud3pm', 'Cloud9am', 'Temp3pm', 'Temp9am']].fillna(0)
+    '''
+    #plot correlation
+
+    sns.pairplot(x)
+    plt.show()'''
+    logitReg(x, y)
+
+from sklearn.feature_selection import RFE
+from sklearn. tree import DecisionTreeClassifier
+
+def part2(df):
+    rfe = RFE(estimator=DecisionTreeClassifier(), n_features_to_select=3)
+    y = df['RainTomorrow']
+    nFeatures = np.array(['Rainfall', 'WindSpeed3pm', 'Humidity9am', 'Humidity3pm',
+                          'Pressure9am', 'Pressure3pm', 'Temp9am',
+                          'Temp3pm'])
+    x = df[nFeatures].fillna(0)
+
+    rfe_fitted = rfe.fit(x, y)
+    selected = nFeatures[rfe_fitted.support_]
+    print(f"Top 3 Feature: {selected}")
+
+    x = df[selected].fillna(0)
+    logitReg(x, y)
+# BasicInfo(df)
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import StandardScaler
+
+def part3(df):
+    print(df.columns)
+    ty = ['MinTemp', 'MaxTemp', 'Rainfall', 'Evaporation',
+          'Sunshine', 'WindSpeed9am', 'WindSpeed3pm',
+          'Humidity3pm', 'Humidity9am', 'Pressure3pm',
+          'Pressure9am', 'Cloud3pm', 'Cloud9am',
+          'Temp3pm', 'Temp9am']
+    x = df[ty].fillna(0)
+    x_scaled = pd.DataFrame( StandardScaler().fit_transform(x), columns=x.columns)
+    
+    
+    pca = PCA(n_components=3)
+    pca_f = pca.fit_transform(x_scaled)
+    print(pca_f.shape)
+    #pca_df = pd.DataFrame(data=pca_f.components_, columns=x_scaled.columns, index=['PC-1', 'PC-2', 'PC-3'])
+    print(df.shape)
+    
+#    pca_df['target'] = df['RainTomorrow']
+    
+    
+
+#part3(df)
+#part2(df)
+secCorr(df)
