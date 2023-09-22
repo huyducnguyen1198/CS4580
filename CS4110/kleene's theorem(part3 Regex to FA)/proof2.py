@@ -450,10 +450,45 @@ class Example:
 
         return FA1(), FA2(), FA3(), FA4()
 
+    def excercise5(self):
+        '''create FA, 2 states, x1 start, x2, x3 final'''
+        fa1 = FA("fa1")
+        fa1.addState("x1",True)
+        fa1.addState("x2")
+        fa1.addState("x3",isFinal=True)
+
+        '''add four state with format state: a, b respectively
+            1:2 1
+            2:3 1
+            3: 3 3
+        '''
+        fa1.addTransition("x1","a","x2")
+        fa1.addTransition("x1","b","x1")
+        fa1.addTransition("x2","a","x3")
+        fa1.addTransition("x2","b","x1")
+        fa1.addTransition("x3","a","x3")
+        fa1.addTransition("x3","b","x3")
+
+
+        '''create FA, 2 states, y1 start, y2 final'''
+        fa2 = FA("fa2")
+        fa2.addState("y1",True)
+        fa2.addState("y2",isFinal=True)
+
+        '''add four state with format state: a, b respectively
+        1:1 2
+        2:1 2
+        '''
+        fa2.addTransition("y1","a","y1")
+        fa2.addTransition("y1","b","y2")
+        fa2.addTransition("y2","a","y1")
+        fa2.addTransition("y2","b","y2")
+
+        return fa1, fa2
 
 ##############################main function#####################################
 
-'''
+
 def main():
     # print("Huy Nguyen")
     # print("CS4110")
@@ -461,14 +496,19 @@ def main():
 
 
     example = Example()
-    fa1, fa2, fa3, fa4 = example.exercise3()
+    fa1, fa2 = example.excercise5()
     print("*" * 50)
-
+    print("FA1")
+    print(fa1)
+    print("*" * 50)
+    print("FA2")
+    print(fa2)
+    print("*" * 50)
     fa = proof2Class("fa")
     #bug can only run one add at a time for one fa
     #fa.addLanguage(fa1, fa2)
     #fa.addLanguage(fa1, fa3)
-    fa.addLanguage(fa2, fa3)
+    fa.addLanguage(fa1, fa2)
     print(fa)
     fa.printOrg()
 
@@ -480,5 +520,3 @@ def main():
 
 
 main()
-'''
-''''''
