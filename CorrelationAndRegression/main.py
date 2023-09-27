@@ -189,7 +189,7 @@ def part2(df):
     x = scaler.fit_transform(x)
     rfe_fitted = rfe.fit(x, y)
     selected = nFeatures[rfe_fitted.support_]
-    print(f"Top 3 Feature: {selected}")
+    print(f"Top 5 Feature: {selected}")
 
     x = df[selected].fillna(0)
     logitReg(x, y)
@@ -197,7 +197,6 @@ def part2(df):
 
 # BasicInfo(df)
 from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler
 
 def part3PCA(df):
     ty = ['MinTemp', 'MaxTemp', 'Rainfall', 'Evaporation',
@@ -280,7 +279,7 @@ def MLP(df):
     print(f'Accuracy = {str(accuracy_score(y_test, y_pred))}')
     print(mlp.score(x_train, y_train))
 
-import tensorflow as tf
+'''
 from tensorflow import keras
 
 def DNN(df):
@@ -308,8 +307,8 @@ def DNN(df):
     print(x.shape[1])
     y = df['RainMorrowLogit']
     model = keras.Sequential([
-        keras.layers.Conv1D(filters=64, kernel_size=2, activation='relu', input_shape=(x.shape[1], 1)),
-        keras.layers.Conv1D(filters=128, kernel_size=2, activation='relu'),
+        keras.layers.Conv1D(filters=128, kernel_size=2, activation='relu', input_shape=(x.shape[1], 1)),
+        keras.layers.Conv1D(filters=256, kernel_size=2, activation='relu'),
         keras.layers.Dropout(0.2),
         keras.layers.Conv1D(filters=128, kernel_size=2, activation='relu'),
         keras.layers.BatchNormalization(),
@@ -322,7 +321,13 @@ def DNN(df):
         keras.layers.Dense(1, activation='sigmoid')
 
     ])
-    '''
+
+    model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+    model.summary()
+
+    history = model.fit(x, y, epochs=18, batch_size=128, validation_split=0.15)
+
+    
     y = df['RainMorrowLogit']
 
     model = keras.Sequential()
@@ -340,14 +345,10 @@ def DNN(df):
     model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
     model.summary()
     ## input
-    history = model.fit(x, y, epochs=18, batch_size=128, validation_split=0.15)'''
+    history = model.fit(x, y, epochs=18, batch_size=128, validation_split=0.15)
 
 
     ## input
-    model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-    model.summary()
-
-    history = model.fit(x, y, epochs=18, batch_size=128, validation_split=0.15)
 
     fig, axs = plt.subplots(1,2)
 
@@ -365,6 +366,7 @@ def DNN(df):
     plt.show()
 
     model.save('test.keras')
+'''
 
 
 def EDA(df):
@@ -397,18 +399,39 @@ def EDA(df):
 
 
 
-#DNN(df)
-#MLP(df)
-#part2(df)
-#part1(df)
-#secCorr(df)
+
+import xgboost as xgb
+from sklearn.metrics import mean_squared_error, classification_report
+import graphviz
+def XGBoost3(df):
+    ty = ['MinTemp', 'MaxTemp', 'Rainfall', 'Evaporation',
+          'Sunshine', 'WindSpeed9am', 'WindSpeed3pm',
+          'Humidity3pm', 'Humidity9am', 'Pressure3pm',
+          'Pressure9am', 'Cloud3pm', 'Cloud9am',
+          'Temp3pm', 'Temp9am', 'Location', 'WindGustDir', 'WindDir9am', 'WindDir3pm']
+
+    df_onehot = pd.get_dummies(df[ty], columns=['Location', 'WindGustDir', 'WindDir9am', 'WindDir3pm'])
+    df_onehot['Day'] = df['Date'].apply(lambda x: x[8:])
+    df_onehot['Year'] = df['Date'].apply(lambda x: x[:4])
+    df_onehot['Month'] = df['Date'].apply(lambda x: x[5:7])
+
+    x = df_onehot.fillna(0)
+    x = StandardScaler().fit_transform(x)
+
+    y = df['RainTomorrow'].apply(lambda x: 0 if x == "No" else 1)
+    x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.05)
+    model = xgb.XGBClassifier(objective="reg:squarederror", random_state=42)
+    model.fit(x, y)
+    y_pred = model.predict(x_test)
 
 
-#part2(df)
+    mse = mean_squared_error(y_test, y_pred)
+    print(f"Mean Squared Error: {mse:.2f}")
 
-part3PCA(df)
-
-
+    # Example for classification
+    accuracy = accuracy_score(y_test, y_pred)
+    print(f"Accuracy: {accuracy:.2f}")
+    print(classification_report(y_test, y_pred))
 def plotCorr(df):
     df['RainMorrowLogit'] = df['RainTomorrow'].apply(lambda x: 0 if x == "No" else 1)
     ty = ['MinTemp', 'MaxTemp', 'Rainfall', 'Evaporation',
@@ -421,3 +444,18 @@ def plotCorr(df):
     plt.figure(figsize=(10, 10))
     sns.heatmap(corr_df, annot=True,fmt='.2f', cmap='RdYlGn',annot_kws={'size': 10})
     plt.show()
+
+
+
+
+#DNN(df)
+#MLP(df)
+#part2(df)
+#part1(df)
+#secCorr(df)
+
+
+#part2(df)
+
+
+XGBoost3(df)

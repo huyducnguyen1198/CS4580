@@ -5,6 +5,9 @@ import matplotlib as plt
 from scipy.stats import chi2 as c2
 from scipy.stats import chi2_contingency
 
+from statsmodels.formula.api import ols
+from statsmodels.stats.multicomp  import pairwise_tukeyhsd, MultiComparison
+import statsmodels.api as sm
 # set up pandas to display all columns
 pd.set_option('display.max_columns', False)
 pd.set_option('display.max_rows', None)
@@ -19,7 +22,7 @@ def readFile():
 
 
 df = readFile()
-
+df = df.rename(columns={'Class/Dept': 'Class_Dept'})
 ############filter by survived? column
 # -1 = Nan, 0 = LOST, 1 = SAVED
 df['Survived?'].fillna(-1, inplace=True)
@@ -72,8 +75,18 @@ chi2Congin(df, 'Gender', 'Survived?')
 
 
 printSep("Class/Dept", "Survived?")
-chi2Congin(df, 'Class/Dept', 'Survived?')
+chi2Congin(df, 'Class_Dept', 'Survived?')
 #Chi2Test(df)
 
 printSep("Joined", "Survived?")
 chi2Congin(df, 'Joined', 'Survived?')
+
+
+#############################################
+print(df['Age'])
+model = ols("Age ~ Class_Dept", data=df).fit()
+aov_table = sm.stats.anova_lm(model)
+print(aov_table)
+mc = MultiComparison(df['Age'], df['Class_Dept'])
+result = mc.tukeyhsd()
+print(result)

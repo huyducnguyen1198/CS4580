@@ -265,15 +265,15 @@ class Example:
         def FA2():
             fa2 = FA("fa2")
             '''add two state y1 and y2, y1 start, y2 final'''
-            fa2.addState("y1",True)
-            fa2.addState("y2",isFinal=True)
+            fa2.addState("y1",True,isFinal=True)
+            fa2.addState("y2")
 
             '''add four state with format state: a, b respectively
                 1:1 2
                 2:1 2
             '''
-            fa2.addTransition("y1","a","y1")
-            fa2.addTransition("y1","b","y2")
+            fa2.addTransition("y1","a","y2")
+            fa2.addTransition("y1","b","y1")
             fa2.addTransition("y2","a","y1")
             fa2.addTransition("y2","b","y2")
 
@@ -486,6 +486,116 @@ class Example:
 
         return fa1, fa2
 
+
+    '''example for chapter 8 regular languagepage 176(191)'''
+    def example6(self):
+        '''create fa 3 states, x1 start-final, x2 final, x3'''
+        fa1 = FA("fa1")
+        fa1.addState("x1",True,isFinal=True)
+        fa1.addState("x2",isFinal=True)
+        fa1.addState("x3")
+
+        '''add four state with format state: a, b respectively
+            1:2 1
+            2:3 1
+            3: 3 3
+        '''
+        fa1.addTransition("x1","a","x2")
+        fa1.addTransition("x1","b","x1")
+        fa1.addTransition("x2","a","x3")
+        fa1.addTransition("x2","b","x1")
+        fa1.addTransition("x3","a","x3")
+        fa1.addTransition("x3","b","x3")
+
+        '''create FA, 2 states, y1 start, y2 final'''
+        fa2 = FA("fa2")
+        fa2.addState("y1",True)
+        fa2.addState("y2",isFinal=True)
+
+
+        '''add states, format state: a, b respectively
+            1: 2 1
+            2: 1 2
+        '''
+        fa2.addTransition("y1","a","y2")
+        fa2.addTransition("y1","b","y1")
+        fa2.addTransition("y2","a","y1")
+        fa2.addTransition("y2","b","y2")
+
+        return fa1, fa2
+    '''chapter 9 example, start with a, and end with a'''
+    def example7(self):
+        '''define fa1 with 3 states, x1 start, x2 final, x3'''
+        fa1 = FA("fa1")
+        fa1.addState("x1",True)
+        fa1.addState("x2",isFinal=True)
+        fa1.addState("x3")
+
+        '''add states, format state: a, b respectively
+            1:2 3
+            2:2 2
+            3:3 3
+        '''
+        fa1.addTransition("x1","a","x2")
+        fa1.addTransition("x1","b","x3")
+        fa1.addTransition("x2","a","x2")
+        fa1.addTransition("x2","b","x2")
+        fa1.addTransition("x3","a","x3")
+        fa1.addTransition("x3","b","x3")
+
+
+        '''define fa2 with 2 states, y1 start, y2 final'''
+        fa2 = FA("fa2")
+        fa2.addState("y1",True)
+        fa2.addState("y2",isFinal=True)
+
+
+        '''add states, format state: a, b respectively
+            1:2 1
+            2:2 1
+        '''
+        fa2.addTransition("y1","a","y2")
+        fa2.addTransition("y1","b","y1")
+        fa2.addTransition("y2","a","y2")
+        fa2.addTransition("y2","b","y1")
+
+        return fa1, fa2
+    def example8(self):
+        '''define fa1 with 3 states, x1 start, x2 final, x3'''
+        fa1 = FA("fa1")
+        fa1.addState("y1",True)
+        fa1.addState("y2",isFinal=True)
+        fa1.addState("y3")
+
+        '''add states, format state: a, b respectively
+            1:3 2
+            2:2 2
+            3:3 3
+        '''
+        fa1.addTransition("y1","b","y2")
+        fa1.addTransition("y1","a","y3")
+        fa1.addTransition("y2","a","y2")
+        fa1.addTransition("y2","b","y2")
+        fa1.addTransition("y3","a","y3")
+        fa1.addTransition("y3","b","y3")
+
+
+        '''define fa2 with 2 states, y1 start, y2 final'''
+        fa2 = FA("fa2")
+        fa2.addState("x1",True)
+        fa2.addState("x2",isFinal=True)
+
+
+        '''add states, format state: a, b respectively
+            1:2 1
+            2:2 1
+        '''
+        fa2.addTransition("x1","a","x2")
+        fa2.addTransition("x1","b","x1")
+        fa2.addTransition("x2","a","x2")
+        fa2.addTransition("x2","b","x1")
+
+        return fa2, fa1
 ##############################main function#####################################
 
 
@@ -496,7 +606,7 @@ def main():
 
 
     example = Example()
-    fa1, fa2 = example.excercise5()
+    fa1, fa2 = example.example8()
     print("*" * 50)
     print("FA1")
     print(fa1)
