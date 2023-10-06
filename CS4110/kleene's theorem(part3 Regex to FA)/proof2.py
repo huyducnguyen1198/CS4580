@@ -564,20 +564,21 @@ class Example:
         '''define fa1 with 3 states, x1 start, x2 final, x3'''
         fa1 = FA("fa1")
         fa1.addState("y1",True)
-        fa1.addState("y2",isFinal=True)
-        fa1.addState("y3")
+        fa1.addState("y2")
+        fa1.addState("y3",isFinal=True)
 
         '''add states, format state: a, b respectively
-            1:3 2
-            2:2 2
-            3:3 3
+            1: 2 1
+            2: 3 1
+            3: 3 3
         '''
-        fa1.addTransition("y1","b","y2")
-        fa1.addTransition("y1","a","y3")
-        fa1.addTransition("y2","a","y2")
-        fa1.addTransition("y2","b","y2")
+        fa1.addTransition("y1","a","y2")
+        fa1.addTransition("y1","b","y1")
+        fa1.addTransition("y2","a","y3")
+        fa1.addTransition("y2","b","y1")
         fa1.addTransition("y3","a","y3")
         fa1.addTransition("y3","b","y3")
+
 
 
         '''define fa2 with 2 states, y1 start, y2 final'''

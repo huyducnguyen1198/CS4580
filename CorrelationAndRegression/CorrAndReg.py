@@ -94,6 +94,7 @@ def secCorr(df):
     printSep("Second Cor")
     cities = ['Sale', 'Perth', 'Nuriootpa', 'Mildura', 'Albury']
 
+    #cities = ['Canberra', 'Darwin', 'Hobart', 'Perth', 'Sydney']
     ##filter by city
     city_df = df[['Date', 'Location', 'Rainfall']][df['Location'].isin(cities)]
     piv = city_df.pivot(index='Date', columns='Location', values='Rainfall').fillna(0)
@@ -276,14 +277,14 @@ def XGBoost3(df):
 
     x = df_onehot.fillna(0)
     x = StandardScaler().fit_transform(x)
-
     y = df['RainTomorrow'].apply(lambda x: 0 if x == "No" else 1)
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.05)
     model = xgb.XGBClassifier(objective="reg:squarederror", random_state=42)
     model.fit(x, y)
     y_pred = model.predict(x_test)
 
-
+    print("Features used: all numerical data and one hot encoded categorical data"
+          "with the total of 115 features")
     mse = mean_squared_error(y_test, y_pred)
     print(f"Mean Squared Error: {mse:.2f}")
 
@@ -312,5 +313,5 @@ def main():
     print("Note that: if I use DNN to overfit the data,"
           " I can get 100% accuracy, but that is another problem itself.")
 
-if __name__ == "__main__":
-    main()
+main()
+

@@ -402,7 +402,6 @@ def EDA(df):
 
 import xgboost as xgb
 from sklearn.metrics import mean_squared_error, classification_report
-import graphviz
 def XGBoost3(df):
     ty = ['MinTemp', 'MaxTemp', 'Rainfall', 'Evaporation',
           'Sunshine', 'WindSpeed9am', 'WindSpeed3pm',
