@@ -1,4 +1,7 @@
 import warnings
+
+from sklearn.linear_model import LogisticRegression
+
 warnings.filterwarnings("ignore")
 
 import numpy as np
@@ -8,10 +11,12 @@ import matplotlib.pyplot as plt
 from scipy.stats import chi2 as c2
 from scipy.stats import chi2_contingency
 from sklearn.preprocessing import LabelEncoder
-
+from sklearn.feature_selection import RFE, SelectKBest
 from statsmodels.formula.api import ols
 from statsmodels.stats.multicomp  import pairwise_tukeyhsd, MultiComparison
 import statsmodels.api as sm
+
+
 # set up pandas to display all columns
 pd.set_option('display.max_columns', False)
 pd.set_option('display.max_rows', None)
@@ -64,13 +69,22 @@ def chi2Congin(df, indep, dep, alpha=0.05):
     print('.'*70)
 
 def Anova(df):
-    print(df['Age'])
     model = ols("Age ~ Class_Dept", data=df).fit()
     aov_table = sm.stats.anova_lm(model)
-    print(aov_table)
     mc = MultiComparison(df['Age'], df['Class_Dept'])
     result = mc.tukeyhsd()
-    print(result)
+    tukey_df = pd.DataFrame(data=result._results_table.data[1:], columns=result._results_table.data[0])
+
+    print("H0: There is no difference in the mean of age between class/dept")
+    print("Ha: There is difference in the mean of age between class/dept")
+    print('.' * 70)
+    print(aov_table)
+    print(tukey_df[tukey_df['reject'] == True])
+
+    print('.' * 70)
+    print("These are the pairs that have significant difference in mean")
+    print("It means that there are significant difference in the mean of age between these pairs")
+
 
 def SeparateGender(df):
     ### perfrom chi2 on gender and surviced
@@ -98,6 +112,69 @@ def SeparateGender(df):
     df_corr = pd.get_dummies(df_corr, columns=['Gender']).apply(LabelEncoder().fit_transform)
     print(df_corr.corr())
 
+def bivariatePlot(df):
+    fig, ax = plt.subplots(1, 3, figsize=(15, 5))
+
+    sns.scatterplot(data=df, x='Age', y='Survived?', ax=ax[0])
+    ax[0].set_title("Age vs Survived?")
+    sns.scatterplot(data=df, x='Gender', y='Survived?', ax=ax[1])
+    ax[1].set_title("Gender vs Survived?")
+    sns.scatterplot(data=df, x='Died', y='Survived?', ax=ax[2])
+    ax[2].set_title("Died vs Survived?")
+    plt.tight_layout()
+    plt.show()
+
+def multivariatePlot(df):
+    ft = ['Died', 'Age', 'Survived?']
+    df_mul = df[ft]
+    sns.set(style='darkgrid')
+    plot = sns.jointplot(data=df_mul, x='Age', y='Died', hue='Survived?', kind='hist')
+    plot.plot_joint(sns.kdeplot, fill=True, alpha=.5)
+    plot.fig.suptitle("Age vs Died vs Survived?")
+    plt.show()
+
+def featureSelection(df):
+    print("My top features:")
+    print(f'{"":<5} - Gender')
+    print(f'{"":<5} - Class/Dept')
+    print("Reason:")
+    print(f'{"":<5} Both of these features have significant association with Survived? in Chi2 Test')
+
+def featureSelection2(df):
+    '''rfe = RFE(estimator=LogisticRegression(), n_features_to_select=3)
+    x = df.drop(['Survived?', 'Name', 'Born', 'Died', 'Boat', 'Body', 'URL'], axis=1)
+    y = df['Survived?']
+    x = x.apply(LabelEncoder().fit_transform)
+    rfe.fit(x, y)
+    print([x.columns[i] for i in range(len(rfe.support_)) if rfe.support_[i] == True])'''
+    print("Top features by RFE:")
+    ft = ['Gender', 'Class_Dept', 'Joined']
+    for f in ft:
+        print(f'{"":<5} - {f}')
+
+
+    '''kbest = SelectKBest(k=3)
+    x = df.drop(['Survived?', 'Name', 'Born', 'Died', 'Boat', 'Body', 'URL'], axis=1)
+    y = df['Survived?']
+    x = x.apply(LabelEncoder().fit_transform)
+    kbest.fit(x, y)
+    print("Top features by SelectKBest:")
+    print(kbest.get_support())
+    print(kbest.scores_)
+    print(x.columns)
+    print([x.columns[i] for i in range(len(kbest.get_support())) if kbest.get_support()[i] == True])'''
+    print("Top features by SelectKBest:")
+    ftk = ['Gender', 'Class_Dept', 'Nationality']
+    for f in ftk:
+        print(f'{"":<5} - {f}')
+
+def featureSelection3(df):
+    print("My selected features are:")
+    print(f'{"":<5} - Gender')
+    print(f'{"":<5} - Class/Dept')
+    print("Reason is because both of them are significant in Chi2 Test. Age is not significant in a independent T Test.")
+    print("most of other features are either irrelevant or missing too many values.")
+
 def printSep(indep, dep):
     s = f" {indep} and {dep}"
     print()
@@ -120,37 +197,24 @@ printSep("Chi2 Test for Joined", "Survived?")
 chi2Congin(df, 'Joined', 'Survived?')
 
 
+printSep("Anova Test for Age", "Class/Dept")
+Anova(df)
+
 printSep("Gender Correlation", "Survived?")
 SeparateGender(df)
-#############################################
 
 
-'''fig, ax = plt.subplots(1,3, figsize=(15, 5))
+printSep("Bivariate Plot", "")
+bivariatePlot(df)
 
-sns.scatterplot(data=df, x='Age', y='Survived?',ax=ax[0])
-ax[0].set_title("Age vs Survived?")
-sns.scatterplot(data=df, x='Gender', y='Survived?',ax=ax[1])
-ax[1].set_title("Gender vs Survived?")
-sns.scatterplot(data=df, x='Died', y='Survived?',ax=ax[2])
-ax[2].set_title("Died vs Survived?")
-plt.tight_layout()'''
-#plt.show()
-#pairplot
-'''
-ft = ['Died','Age',  'Survived?']
-df_mul = df[ft]
-df_mul = pd.concat([df_mul, pd.DataFrame(df['Gender'].map(lambda x:1 if x =='Male' else 0), columns=['Gender'])], axis=1)
+printSep("Multivariate Plot", "")
+multivariatePlot(df)
 
-sns.pairplot(df_mul, hue='Survived?')
-plt.show()'''
+printSep("Feature Selection", "")
+featureSelection(df)
 
-print(df.head())
+printSep("Feature Selection 2", "")
+featureSelection2(df)
 
-ft = ['Died', 'Age', 'Survived?']
-df_mul = df[ft]
-print(df.isna().sum())
-sns.set(style='darkgrid')
-plot = sns.jointplot(data=df_mul, x='Age', y='Died', hue='Survived?', kind='hist')
-plot.plot_joint(sns.kdeplot, fill=True, alpha=.5)
-
-plt.show()
+printSep("Feature Selection 3", "")
+featureSelection3(df)

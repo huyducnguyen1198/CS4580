@@ -597,6 +597,88 @@ class Example:
         fa2.addTransition("x2","b","x1")
 
         return fa2, fa1
+
+    #exercise chapter 11 p217
+    def example9(self):
+        ''' fa1 with 5 stats, x1 start end, x2 end, x3 end, x4 end, x5'''
+        fa1 = FA("fa1")
+        fa1.addState("x1",True,isFinal=True)
+        fa1.addState("x2",isFinal=True)
+        fa1.addState("x3",isFinal=True)
+        fa1.addState("x4",isFinal=True)
+        fa1.addState("x5")
+
+        '''add states, format state: a, b respectively
+            1:2 3
+            2:2 4
+            3:5 3
+            4:5 4
+            5:5 5'''
+        fa1.addTransition("x1","a","x2")
+        fa1.addTransition("x1","b","x3")
+        fa1.addTransition("x2","a","x2")
+        fa1.addTransition("x2","b","x4")
+        fa1.addTransition("x3","a","x5")
+        fa1.addTransition("x3","b","x3")
+        fa1.addTransition("x4","a","x5")
+        fa1.addTransition("x4","b","x4")
+        fa1.addTransition("x5","a","x5")
+        fa1.addTransition("x5","b","x5")
+
+        ''' fa2 with 3 stats, y1 start end, y2 end, y3 '''
+        fa2 = FA("fa2")
+        fa2.addState("y1",True,isFinal=True)
+        fa2.addState("y2",isFinal=True)
+        fa2.addState("y3")
+
+        '''add states, format state: a, b respectively
+        1:1 2
+        2:3 2
+        3:3 3'''
+        fa2.addTransition("y1","a","y1")
+        fa2.addTransition("y1","b","y2")
+        fa2.addTransition("y2","a","y3")
+        fa2.addTransition("y2","b","y2")
+        fa2.addTransition("y3","a","y3")
+        fa2.addTransition("y3","b","y3")
+
+        return fa1, fa2
+
+    # exercise 2 chapter 11 p217
+    def example10(self):
+        '''fa1 with 2 states, x1 start , x2 end'''
+        fa1 = FA("fa1")
+        fa1.addState("x1",True)
+        fa1.addState("x2",isFinal=True)
+
+        '''add states, format state: a, b respectively
+            1:2 1
+            2:2 1'''
+        fa1.addTransition("x1","a","x2")
+        fa1.addTransition("x1","b","x1")
+        fa1.addTransition("x2","a","x2")
+        fa1.addTransition("x2","b","x1")
+
+        '''fa2 with 3 states, y1 start, y2 end, y3'''
+        fa2 = FA("fa2")
+        fa2.addState("y1",True)
+        fa2.addState("y2",isFinal=True)
+        fa2.addState("y3")
+
+        '''add states, format state: a, b respectively
+            1:2 3
+            2:2 3
+            3:2 3'''
+        fa2.addTransition("y1","a","y2")
+        fa2.addTransition("y1","b","y3")
+        fa2.addTransition("y2","a","y2")
+        fa2.addTransition("y2","b","y3")
+        fa2.addTransition("y3","a","y2")
+        fa2.addTransition("y3","b","y3")
+
+        return fa1, fa2
+
+
 ##############################main function#####################################
 
 
@@ -607,7 +689,7 @@ def main():
 
 
     example = Example()
-    fa1, fa2 = example.example8()
+    fa1, fa2 = example.example10()
     print("*" * 50)
     print("FA1")
     print(fa1)
