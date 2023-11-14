@@ -24,7 +24,7 @@ def index():
     df = editIMDB(df)
 
     selected_tags = []
-    selected_year = '0'
+    selected_year = ''
     if request.method == 'POST':
 
         selected_tags = request.form.getlist('tag_name')
@@ -43,9 +43,10 @@ def index():
 
         #### year start #####
     unique_years = sorted(df['year'].unique())
+    unique_years[0] = ''
     year_options = ''.join([f'<option value="{year}">{year}</option>' for year in unique_years])
-    selected_year_display = f'<p>Movies By year: {", ".join(selected_year)}</p>' if selected_year != '0' else ''
-
+    selected_year_display = f'<p>Movies By year: {selected_year}</p>' if selected_year != '' else ''
+    print("year", selected_year)
         #### year end #####
 
 
@@ -65,8 +66,9 @@ def index():
                 table = genresimilarity(df, genres=selected_tags)[:50]
             else:
                 table = getMovieRec(df, n=50)
-    if selected_year != 0:
-        table = df[df['year'] == int(selected_year)]
+    if selected_year != '':
+        selected_year = int(selected_year)
+        table = getMovieRecByYear(table, selected_year)
 
 
 
@@ -104,7 +106,7 @@ movies_template = """
             try {
                 let response = await fetch(`https://www.omdbapi.com/?i=${imdbId}&apikey=4daa1e35`);
                 let movieData = await response.json();
-                console.log(movieData);
+                //console.log(movieData);
 
                 // Assuming the API returns an object with a `posterLink` property
                 window.open(movieData['Poster'], '_blank');
@@ -125,7 +127,7 @@ movies_template = """
             moviesDiv.innerHTML = '';
             for (let movie of displayedMovies) {
                 //get rating from api
-
+                console.log(movie);
                 try {
                     let response = await fetch(`https://www.omdbapi.com/?i=${movie.imdbId}&apikey=4daa1e35`);
                     let movieData = await response.json();
@@ -133,6 +135,7 @@ movies_template = """
                     //movie.rating = movieData['Ratings'][0].Value;
                     movie.rated = movieData['Rated'];
                     movie.img = movieData['Poster'];
+                    movie.year = movieData['Year'];
                     // Assuming the API returns an object with a `posterLink` property
                     //window.open(movieData['Poster'], '_blank');
                 } catch (error) {
@@ -142,7 +145,8 @@ movies_template = """
             for (let movie of displayedMovies) {
                 moviesDiv.innerHTML += `
                     <div class="movie">
-                        <a href="#" onclick="handleMovieClick('${movie.imdbId}')">${movie.title} | ${movie.rated}</a>
+                        <img src="${movie.img}" alt="Movie Poster" width="100" height="150">
+                        <a href="#" onclick="handleMovieClick('${movie.imdbId}')">${movie.title} | ${movie.rated} | ${movie.year}</a>
                         <span class="info">${movie.genres}</span>
                     </div>`;    
             }
@@ -168,13 +172,14 @@ movies_template = """
             margin: 0;
             font-family: Arial, Helvetica, sans-serif;
             display: flex;
-            align-items: center;
             justify-content: center;
         }
 
         .container {
             width: 80%;
-            max-width: 800px;
+            height: fit-content;
+            max-width: 900px;
+            
             padding: 20px;
             border: 1px solid #ddd;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -193,9 +198,8 @@ movies_template = """
         .movie {
             position: relative;
             display: inline-block;
-            height: 2em;
-            padding: 5px;
-            margin: 5px;
+            //height: 240px;
+            width: 150px;
             border: 1px solid #ddd;
             margin: 8px; 
             font-size: 1em;

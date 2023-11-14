@@ -391,6 +391,31 @@ def getMovieRec(df_rec=df, n=10, random_state=0):
     return df_rec.sort_values(by='JacCosScore', ascending=False)[:n]
 
 
+##########################################
+#           Get Recommendation           #
+#           Based on Year                #
+##########################################
+
+def getYearDif(year1, year2):
+    '''
+    Get difference between two years
+    :param year1:
+    :param year2:
+    :return: difference
+    '''
+    return abs(year1 - year2)
+def getMovieRecByYear(df_rec=df, yearRef=2020, n=10, random_state=0):
+    '''
+    Get recommendation based on past movies
+    :param df_rec:
+    :param n: number of movies to return
+    :param random_state:
+    :return: knn movies to past movies
+    '''
+    df_rec['yearDif'] = df_rec['year'].apply(lambda x: getYearDif(x, yearRef))
+    df_rec['yearScore'] = 1 - df_rec['yearDif'] / df_rec['yearDif'].max()
+    return df_rec.sort_values(by='yearScore', ascending=False)[:n]
+
 ###########################################
 #         Load and save past movie        #
 ###########################################
@@ -486,3 +511,5 @@ def printSelectingBoard(df):
 # df = editIMDB(df)
 df = extractYear(df)
 #getMovieRec(df, 10, 0)
+
+print(df['year'].dtype)
