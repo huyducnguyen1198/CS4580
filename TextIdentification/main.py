@@ -9,6 +9,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.preprocessing import OneHotEncoder
+import sys
+import re
 
 authors = ['Austen', 'Baum', 'Verne']
 def readFile(folder='Training'):
@@ -124,9 +126,101 @@ def test():
     plt.scatter(xPCA[:, 0], xPCA[:, 1], c=y_test, cmap=plt.cm.Set1)
     plt.show()
 
+def readBook(nameFile='test.txt'):
+    print(f'Reading {nameFile}')
+    try:
+        with open(nameFile, 'r') as f:
+            book = f.read()
+            return book
+    except:
+        print("File not found")
+        return None
 
 
-test()
+def extract_author(text):
+    # Define the regular expression pattern with multiline option
+    pattern = r'^Author: (.+)$'
+
+    # Search the text for the pattern
+    match = re.search(pattern, text, re.M)
+
+    # If a match is found, return the author's name
+    if match:
+        return match.group(1)
+    else:
+        return 'Author not found'
+
+def training():
+
+    # read the file and get the book and the author
+    print("Book Identification by Huy Nguyen\n")
+    print("Reading Training Data...\n")
+    trainBooks, bookNames = readFile()
+
+    # preprocess the data
+    x, y, tfidf = preprocessData(trainBooks)
+    y_cat = [authors.index(a) for a in y]
+
+    # train the models
+    print("Training Native Bayes...")
+    bayes = NativeBayes(x, y)
+    print("Training SVM...")
+    svm = SVM(x, y)
+    print("Training XGBoost...")
+    xg = xgb(x, y_cat)
+    print("Training Random Forest...\n")
+    rf = randomForest(x, y_cat)
+
+    # read the past point
+    key = ''
+    point = 0
+    try:
+        with open('point.txt', 'r') as f:
+            point = int(f.read())
+    except:
+        pass
+
+    # read the book and predict the author
+    while key != 'q':
+        key = input("Enter the name of the book to predict or q to quit: ")
+        book = readBook(key)
+        if book is None:
+            continue
+        author = extract_author(book)
+
+        #print author fromt the list of authors inform Authors: 1. name, 2. name, 3. name
+        print(f'{"Authors:":>15}', end=' ')
+        for i, a in enumerate(authors):
+            print(f'{i+1}. {a}', end=', ')
+        print()
+        choice = -1
+        while choice < 0 or choice > len(authors):
+            choice = int(input("Enter the number of the author: "))
+        guessAuthor = authors[choice-1]
+
+        # predict the author
+        bayes_pred = bayes.predict(tfidf.transform([book]).toarray())[0]
+        svm_pred = svm.predict(tfidf.transform([book]).toarray())[0]
+        xg_pred = authors[xg.predict(tfidf.transform([book]).toarray())[0]]
+        rf_pred = authors[rf.predict(tfidf.transform([book]).toarray())[0]]
+
+        # print the result
+        print(f'{"Algorithm 1:":>15}{"Native Bayes": >20}: {bayes_pred:>15}')
+        print(f'{"Algorithm 2:":>15}{"SVM":>20}: {svm_pred:>15}')
+        print(f'{"Algorithm 3:":>15}{"XGBoost":>20}: {xg_pred:>15}')
+        print(f'{"Algorithm 4:":>15}{"Random Forest":>20}: {rf_pred:>15}')
+        print(f'{"Guess author":>35}: {guessAuthor:>15}')
+        print(f'{"Real author":>35}: {author:>15}')
+
+        # check if the guess author is correct
+        if guessAuthor.lower() in author.lower():
+            point += 1
+            print("Correct!")
+            print(f'{"Point":>35}: {point:>15}')
+
+    with open('point.txt', 'w') as f:
+        f.write(f'{point}')
+training()
 
 
 
