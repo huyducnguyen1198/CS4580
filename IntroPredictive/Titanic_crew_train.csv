@@ -1,0 +1,900 @@
+﻿Name,Born,Died,Age,Gender,Class/Dept,Ticket,Fare,Cabin,Joined,Occupation,Survived?,Boat,Body,Nationality,URL
+"COOPER, Mr James Edward",1886,1912,26,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-cooper-trimmer.html
+"GOSHAWK, Mr Alfred James",1871,1912,40,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-james-goshawk.html
+"BRISTOW, Mr Harry",1873,1912,38,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/harry-bristow.html
+"BARRY, Mr James",1881,,31,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-barry.html
+"ROTTA, Sig. Angelo Mario",1888,1912,23,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/angelo-mario-rotta.html
+"CHORLEY, Mr John Henry",1887,1912,25,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-chorley.html
+"ARCHER, Mr Ernest Edward",1876,1917,35,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,16,,English,https://www.encyclopedia-titanica.org/titanic-survivor/ernest-edward-archer.html
+"SEWARD, Mr Wilfred Deable",1887,1963,25,Male,Victualling Crew,,,,Southampton,Chief Pantry Steward (2nd Class),SAVED,3,,English,https://www.encyclopedia-titanica.org/titanic-survivor/wilfred-deable-seward.html
+"KEEGAN, Mr James",1874,1912,38,Male,Engineering Crew,,,,Southampton,Leading Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-keegan.html
+"MANN, Mr Joseph",1885,1955,26,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/joseph-mann.html
+"BLACKMAN, Mr Albert Edward",1889,1912,23,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/h-blackman.html
+"KEMP, Mr Thomas Hulman",1869,1912,43,Male,Engineering Crew,,,,Belfast,Extra Assistant 4th Engineer (Refrigeration),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-hulman-kemp.html
+"HODGES, Mr W.",1886,1912,26,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-hodges.html
+"STROUD, Mr Edward Alfred Orlando",1893,1912,19,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-alfred-orlando-stroud.html
+"MCMICKEN, Mr Arthur",1885,1958,26,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/arthur-mcmicken.html
+"BILLOWS, Mr James",1892,1912,20,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/j-billow.html
+"BERNARDI, Sig. Battista",1890,1912,22,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,215,Italian,https://www.encyclopedia-titanica.org/titanic-victim/battista-bernardi.html
+"CRISPIN, Mr William",1878,1912,33,Male,Victualling Crew,,,,Southampton,Glory Hole Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-crispin.html
+"LITTLEJOHN, Mr Alexander James",1872,1949,40,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),SAVED,13,,English,https://www.encyclopedia-titanica.org/titanic-survivor/alexander-james-littlejohn.html
+"ROBINSON, Mrs Annie",1865,1914,47,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/annie-robinson.html
+"SNELLGROVE, Mr George",1871,1912,41,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/g-snellgrove.html
+"COSGROVE, Mr William James Gilligan",1888,1962,24,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-cosgrove.html
+"BRYAN, Mr John",1890,,22,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-bryan.html
+"MONRóS, Sr. Joan Javier",1892,1912,20,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,27,Spanish,https://www.encyclopedia-titanica.org/titanic-victim/jean-javier-mouros.html
+"HILL, Mr James",1887,1912,25,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-hill.html
+"SLADE, Mr Bertram",1884,1943,28,Male,Engineering Crew Deserted,,,,Southampton,Fireman,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/slade-b.html
+"RICKS, Mr Cyril Gordon",1890,1912,22,Male,Victualling Crew,,,,Southampton,Storekeeper,LOST,,100,English,https://www.encyclopedia-titanica.org/titanic-victim/cyril-ricks.html
+"HUGHES, Mr William Thomas",1878,1912,34,Male,Victualling Crew,,,,Southampton,Assistant Second Steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-thomas-hughes.html
+"BROOKS, Mr J.",1887,1912,25,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/j-brooks.html
+"CUNNINGHAM, Mr Andrew Orr",1873,1932,38,Male,Victualling Crew,,,,Belfast,1st Class Bedroom Steward,SAVED,4,,Scottish,https://www.encyclopedia-titanica.org/titanic-survivor/andrew-cunningham.html
+"COTTON, Mr Alfred",1876,1912,35,Male,Engineering Crew Substitute Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/a-cotton.html
+"MARTIN, Mrs Annie Martha",1872,1936,39,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,11,,Channel Islander,https://www.encyclopedia-titanica.org/titanic-survivor/annie-martin.html
+"MILFORD, Mr Daniel",1889,1958,22,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/daniel-milford.html
+"CROSSLEY, Mr John",1878,1941,33,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-crossley.html
+"ENNIS, Mr Walter",1878,1912,34,Male,Victualling Crew,,,,Southampton,Turkish Bath Attendant,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/walter-ennis.html
+"MASKELL, Mr Leopold Adolphus",1887,1912,25,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/leopold-adolphus-maskell.html
+"MULLHOLLAND, Mr J.",1867,,45,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/j-mullholland.html
+"TEUTON, Mr Thomas Moore",1877,1912,35,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,226,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-moore-teuton-fenton.html
+"SHAW, Mr Andrew",1875,,37,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/andrew-shaw.html
+"BANFI,  Ugo",1887,1912,24,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/ugo-banfi.html
+"EVANS, Mr George Richard",1884,1912,27,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-richard-evans.html
+"TIZARD, Mr Arthur Leopold",1881,1912,31,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-tizard.html
+"WYETH, Mr James Robert",1886,1912,25,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-wyeth.html
+"PHILLIPS, Mr James",1885,,27,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-phillips.html
+"BLANN, Mr Eustace Horatius",1890,1912,21,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/eustace-horatius-blann.html
+"VICAT, Sig. Alphonse Jean Eugene",1890,1912,21,Male,Restaurant Staff,,,,Southampton,Cook,LOST,,,French,https://www.encyclopedia-titanica.org/titanic-victim/alphonse-jean-eugene-vicat.html
+"FARENDEN, Mr Ernest John",1890,1912,22,Male,Victualling Crew,,,,Belfast,Confectioner,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/ernest-john-farrenden.html
+"COSGROVE, Mr John",1893,,19,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-cosgrove.html
+"CASALI, Sig. Giulio",1880,1912,32,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/giulio-casali.html
+"BARNES, Mr Frederick Charles",1872,1912,40,Male,Victualling Crew,,,,Southampton,Assistant baker,LOST,,26,English,https://www.encyclopedia-titanica.org/titanic-victim/baker-frederick-barnes.html
+"BENSON, Mr John",1886,,26,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-benson.html
+"KIERAN, Mr James William",1877,1912,35,Male,Victualling Crew,,,,Southampton,Chief 3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-william-kieran.html
+"DORE, Mr Albert James",1889,1953,22,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/a-dore.html
+"PACHERA, Sig. Jean Baptiste Stanislas",1892,1912,19,Male,Restaurant Staff,,,,Southampton,Assistant Larder Cook,LOST,,,French,https://www.encyclopedia-titanica.org/titanic-victim/jean-baptiste-stanislas-pachera.html
+"JONES, Mr Thomas William",1877,1967,34,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,8,,Welsh,https://www.encyclopedia-titanica.org/titanic-survivor/thomas-william-jones.html
+"OLIVE, Mr Charles",1881,1912,31,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-olive.html
+"LUCAS, Mr William Watson",1881,1944,31,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),SAVED,A,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-lucas-2.html
+"KEARL, Mr Charles Henry",1868,1912,44,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-henry-kearl.html
+"WILLIAMS, Mr Walter John",1883,1971,28,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/walter-john-williams.html
+"RATTI, Sig. Enrico",1890,1912,21,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/enrico-ratti.html
+"TURLEY, Mr Richard",1875,1912,37,Male,Engineering Crew,,,,Belfast,Fireman,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/richard-turley.html
+"EAGLE, Mr Alfred James Jacob",1884,1912,27,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/a-eagle.html
+"REED, Mr Thomas Charles Prowse",1857,1912,54,Male,Victualling Crew,,,,Southampton,Bed Room Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-reed.html
+"SAUNDERS, Mr William Henry",1881,1912,31,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-saunders.html
+"STONE, Mr Edward Thomas",1882,1912,29,Male,Victualling Crew,,,,Southampton,Bedroom Steward (2nd class),LOST,,243,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-thomas-stone.html
+"BRADLEY, Mr Patrick Joseph",1873,1912,38,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/patrick-joseph-bradley.html
+"WITCHER, Mr Albert Ernest",1873,1912,39,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/albert-ernest-witcher.html
+"MCILROY, Mr Bernard",1885,1961,26,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/barney-mcilroy.html
+"KLEIN, Mr Herbert",1878,1912,34,Male,Victualling Crew,,,,Southampton,Barber,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/herbert-klein.html
+"BARROW, Mr Charles Henry John",1876,1912,35,Male,Victualling Crew,,,,Southampton,Assistant butcher,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/harry-barrow.html
+"SLOAN, Mr Peter",1881,1912,31,Male,Engineering Crew,,,,Belfast,Chief Electrician,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/peter-sloan.html
+"WARDNER, Mr Fred Albert",1872,1912,40,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/albert-wardner.html
+"BIGGS, Mr Edward Charles",1891,1912,20,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-charles-biggs.html
+"RICE, Mr Percy",1893,1912,19,Male,Victualling Crew,,,,Southampton,3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/percy-rice.html
+"PRIOR, Mr Harold John Arnold",1891,1949,20,Male,Victualling Crew,,,,Southampton,Steward (3rd Class),SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/harold-john-prior.html
+"TURNER, Mr George Frederick",1870,1912,42,Male,Victualling Crew,,,,Southampton,Stenographer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-frederick-turner.html
+"ALLEN, Mr Robert Spencer",1876,1912,35,Male,Victualling Crew,,,,Southampton,Bedroom Steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/robert-spencer-allan.html
+"SELF, Mr Albert Charles Edward",1888,1954,24,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/edward-self.html
+"CROUGHANE, Mr Michael",1867,,45,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/michael-croughane.html
+"DESVERNINE, Mr Louis Gabriel",1891,1912,20,Male,Restaurant Staff,,,,Southampton,Assistant Pastry Cook,LOST,,,French,https://www.encyclopedia-titanica.org/titanic-victim/louis-gabriel-desvernine.html
+"MCKENNA, Mr Patrick",1872,,40,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/patrick-mckenna.html
+"BURKE, Mr William",1872,1961,39,Male,Victualling Crew,,,,Belfast,Saloon Steward,SAVED,,,Irish,https://www.encyclopedia-titanica.org/titanic-survivor/william-burke.html
+"TRIGGS, Mr Robert",1871,1931,41,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,3,,English,https://www.encyclopedia-titanica.org/titanic-survivor/robert-triggs.html
+"STONE, Mr Edmund",1879,1912,33,Male,Victualling Crew,,,,Southampton,1st Class Bedroom Steward,LOST,,41,English,https://www.encyclopedia-titanica.org/titanic-victim/edmund-stone.html
+"BOOTHBY, Mr Walter Thomas",1874,1912,37,Male,Victualling Crew,,,,Southampton,2nd Class Bedroom Steward,LOST,,107,English,https://www.encyclopedia-titanica.org/titanic-victim/w-boothby.html
+"OLIVER, Mr Harry",1871,1944,41,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,9,,English,https://www.encyclopedia-titanica.org/titanic-survivor/harry-oliver.html
+"CARNEY, Mr William",1881,1912,31,Male,Victualling Crew,,,,Southampton,Lift Steward,LOST,,251,Welsh,https://www.encyclopedia-titanica.org/titanic-victim/william-carney.html
+"COUCH, Mr Frank",1884,1912,27,Male,Deck Crew,,,,Southampton,Able Seaman,LOST,,253,English,https://www.encyclopedia-titanica.org/titanic-victim/frank-couch.html
+"ORPET, Mr Walter Hayward",1881,1912,31,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/walter-hayward-orpet.html
+"BOYD, Mr Adam",1874,,38,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/adam-boyd.html
+"ASHCROFT, Mr Austin Aloysius",1885,1912,26,Male,Victualling Crew,,,,Southampton,Clerk,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/austin-aloysius-ashcroft.html
+"ALLEN, Mr George",1886,1912,26,Male,Victualling Crew,,,,Southampton,Scullion,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-allen.html
+"STAGG, Mr John Henry",1873,1912,38,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-henry-stagg.html
+"HEPBURN, Mr William Spence",1883,,28,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-hepburn.html
+"ROUSSEAU, Mr Pierre",1863,1912,48,Male,Restaurant Staff,,,,Southampton,Chef,LOST,,,French,https://www.encyclopedia-titanica.org/titanic-victim/pierre-rousseau.html
+"BARRATT, Mr Arthur",1896,1912,16,Male,Victualling Crew,,,,Southampton,Bell Boy,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-barratt.html
+"HARDWICK, Mr Reginald",1891,1918,21,Male,Victualling Crew,,,,Southampton,Kitchen Porter,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/reginald-hardwick.html
+"MCMILLEN, Mr Samuel",1883,1973,28,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/samuel-mcmillen.html
+"PASCOE, Mr Charles Henry",1867,1937,45,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,8,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-pascoe.html
+"JAMES, Mr Thomas",1885,1912,27,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Welsh,https://www.encyclopedia-titanica.org/titanic-victim/thomas-james.html
+"RAY, Mr Frederick Dent",1879,1977,32,Male,Victualling Crew,,,,Belfast,Saloon Steward,SAVED,13,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frederick-dent-ray.html
+"VEAL, Mr Thomas Henry Edom",1874,1912,38,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-henry-edom-veal.html
+"ETTLINGER, Mr Peter",1881,1962,31,Male,Victualling Crew Discharged Crew,,,,Southampton,Second Class Saloon Steward,,,,German,https://www.encyclopedia-titanica.org/titanic-biography/ettlinger.html
+"MCCARTHY, Mr William",1863,1932,48,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,4,,Irish,https://www.encyclopedia-titanica.org/titanic-survivor/william-mccarthy.html
+"STRANGE, Mr Samuel",1872,1916,40,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/samuel-strange.html
+"HARRISON, Mr Aragõa Drummond",1871,1947,40,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),SAVED,9,,English,https://www.encyclopedia-titanica.org/titanic-survivor/aragon-harrison.html
+"BAILEY, Mr William",1882,,30,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-bailey.html
+"BRADLEY, Mr Thomas Henry",1883,1912,28,Male,Deck Crew,,,,Southampton,Able Seaman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/t-bradley.html
+"MARRIOTT, Mr John William",1891,1912,21,Male,Victualling Crew,,,,Southampton,Assistant Pantryman Steward (1st Class),LOST,,2,English,https://www.encyclopedia-titanica.org/titanic-victim/j-marriott.html
+"WINSER, Mr Rowland",1876,1912,36,Male,Victualling Crew,,,,Southampton,Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/rowland-winser.html
+"BITTLE, Mr Robert",1866,1922,46,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/robert-bittle.html
+"HOGAN, Mr Albert John",1893,1912,19,Male,Victualling Crew,,,,Southampton,Scullion,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/g-king.html
+"COOPER, Mr H.",1886,1912,25,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/h-cooper-fireman.html
+"FORD, Mr Ernest",1879,1912,33,Male,Victualling Crew,,,,Southampton,3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/ernest-ford.html
+"WILLIAMS, Mr Arthur John",1870,1912,42,Male,Victualling Crew,,,,Southampton,Storekeeper (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-williams.html
+"TERRELL, Mr Bertram",1893,1912,19,Male,Deck Crew,,,,Southampton,Seaman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/bertram-terrell.html
+"DILLON, Mr Thomas Patrick",1879,1939,33,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,4,,English,https://www.encyclopedia-titanica.org/titanic-survivor/thomas-patrick-dillon.html
+"MILLAR, Mr Thomas",1879,1912,32,Male,Engineering Crew,,,,Belfast,Deck Engineer,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/thomas-millar.html
+"BOCHATAY, Mr Alexis Joseph",1881,1912,30,Male,Victualling Crew,,,,Southampton,Chef,LOST,,,Swiss,https://www.encyclopedia-titanica.org/titanic-victim/alexis-joseph-bochatay.html
+"EDBROOKE, Mr Francis Samuel Jacob",1888,1912,23,Male,Victualling Crew,,,,Southampton,Third class steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/f-edbrooke.html
+"PRICE, Mr Ernest Cyril",1895,1912,17,Male,Restaurant Staff,,,,Southampton,Barman,LOST,,186,English,https://www.encyclopedia-titanica.org/titanic-victim/ernest-price.html
+"SMITH, Mr James William",1887,1912,24,Male,Victualling Crew,,,,Southampton,Assistant baker,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-william-smith.html
+"MORRELL, Mr James",1887,,24,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-morrell.html
+"CECIL, Mr Charles Thomas",1891,1912,21,Male,Victualling Crew,,,,Southampton,Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/c-cecil.html
+"JONES, Mr Albert Hugh Brabner",1894,1912,17,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/albert-jones.html
+"LIGHT, Mr Charles Edward",1888,1912,24,Male,Victualling Crew,,,,Southampton,Plate Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-edward-light.html
+"CONWAY, Mr Percy Walter",1887,1912,25,Male,Victualling Crew,,,,Belfast,Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/p-conway.html
+"PRANGNELL, Mr George Alexander",1881,1953,30,Male,Engineering Crew,,,,Southampton,Greaser,SAVED,B,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-alexander-prangnell.html
+"BANNON, Mr John Joseph",1877,1912,34,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-bannon.html
+"HOSKING, Mr George Fox",1875,1912,36,Male,Engineering Crew,,,,Belfast,Senior 3rd. Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-fox-hosking.html
+"WOODFORD, Mr Frederick Ernest",1871,1912,40,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,163,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-woodford.html
+"HESKETH, Mr John Henry",1879,1912,33,Male,Engineering Crew,,,,Belfast,Second Engineer (refrigeration),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-henry-hesketh.html
+"FREDERICKS, Mr Walter Francis",1891,1960,21,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/w-fredericks.html
+"WILDE, Mr Henry Tingle",1872,1912,39,Male,Deck Crew Titanic Officers,,,,Southampton,Chief Officer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-tingle-wilde.html
+"FELTHAM, Mr George William",1870,1912,41,Male,Victualling Crew,,,,Southampton,Vienna Baker,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/g-feltham.html
+"RATTENBURY, Mr William Henry",1874,1912,38,Male,Victualling Crew,,,,Belfast,Boots steward (1st class),LOST,,,Channel Islander,https://www.encyclopedia-titanica.org/titanic-victim/william-henry-rattonbury.html
+"WARD, Mr Edward Bryon",1878,1912,34,Male,Victualling Crew,,,,Belfast,Bed Room Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-ward.html
+"KETCHLEY, Mr Henry",1876,1912,36,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-ketchley.html
+"URBINI, Sig. Roberto",1891,1912,20,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/roberto-urbini.html
+"JANAWAY, Mr William Frank",1877,1912,35,Male,Victualling Crew,,,,Belfast,Bed Room Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-frank-janaway.html
+"MOORE, Mr J.",1883,1954,29,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,3,,English,https://www.encyclopedia-titanica.org/titanic-survivor/j-moore.html
+"THORLEY, Mr William Gordon",1871,1912,41,Male,Victualling Crew,,,,Southampton,Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-thorley.html
+"WOOD, Mr Henry",1881,1912,31,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-wood.html
+"BESSANT, Mr William Edward Lowe",1871,1912,40,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-edward-bessant.html
+"MCCASTLIN, Mr William",1883,1912,28,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Canadian,https://www.encyclopedia-titanica.org/titanic-victim/w-mccastlin.html
+"CAUNT, Mr William Ewart",1884,1912,28,Male,Victualling Crew,,,,Southampton,Grill Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-ewart-caunt.html
+"DAVIS, Mr Stephen James",1873,1912,39,Male,Deck Crew,,,,Southampton,Able Seaman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/stephen-james-davis.html
+"BUTT, Mr Robert Henry",1890,1912,21,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,10,English,https://www.encyclopedia-titanica.org/titanic-victim/robert-henry-butt.html
+"BELL, Mr Joseph",1861,1912,51,Male,Engineering Crew,,,,Belfast,Chief Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/joseph-bell.html
+"ELLIS, Mr John Bertie",1883,1932,28,Male,Victualling Crew,,,,Southampton,Assistant Vegetable Cook,SAVED,2,,English,https://www.encyclopedia-titanica.org/titanic-survivor/john-bertram-ellis.html
+"FLAHERTY, Mr Edward",1860,1940,52,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/edward-flarty.html
+"HANNAM, Mr George",1882,1912,30,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-hannam.html
+"GOREE, Mr Frank",1871,1912,40,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,222,English,https://www.encyclopedia-titanica.org/titanic-victim/frank-goree.html
+"GEER, Mr Alfred Emest",1886,1912,26,Male,Engineering Crew Substitute Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/alfred-emest-geer.html
+"SLADE, Mr Alfred Edward",1887,1965,25,Male,Engineering Crew Deserted,,,,Southampton,Fireman,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/slade-a.html
+"LEONARD, Mr Matthew",1886,1912,25,Male,Victualling Crew,,,,Belfast,3rd Class Steward,LOST,,,"American, Irish",https://www.encyclopedia-titanica.org/titanic-victim/matthew-leonard.html
+"BENHAM, Mr Fred John",1882,1912,30,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-benham.html
+"MCMURRAY, Mr William",1868,1912,44,Male,Victualling Crew,,,,Belfast,1st Class Bedroom Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-mcmurray.html
+"NEAL, Mr Harold Bentley",1886,1950,25,Male,Victualling Crew,,,,Southampton,Baker,SAVED,13,,English,https://www.encyclopedia-titanica.org/titanic-survivor/henry-neal.html
+"WILLIAMSON, Mr James Bertram",1876,1912,35,Male,Victualling Crew Postal Clerk,,,,Southampton,Postal Clerk / Postman,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/james-bertram-williamson.html
+"CAVE, Mr Herbert",1873,1912,39,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,218,English,https://www.encyclopedia-titanica.org/titanic-victim/herbert-cave.html
+"WORTHMAN, Mr William Henry",1875,1912,37,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/walter-jarvis.html
+"MARSH, Mr Frederick Charles",1872,1912,39,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,268,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-charles-marsh.html
+"HOLMAN, Mr Percival Thomas",1887,1937,24,Male,Engineering Crew,,,,Belfast,Trimmer,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/thomas-holman.html
+"SLADE, Mr Thomas",1883,1933,28,Male,Engineering Crew Deserted,,,,Southampton,Fireman,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/slade-t.html
+"BRIANT, Mr Albert",1877,1912,34,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/albert-briant.html
+"DAVIES, Mr Gordon Raleigh",1879,1912,32,Male,Victualling Crew,,,,Belfast,1st Class Bedroom Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/gordon-raleigh-davies.html
+"JANIN, Mr Claude Marie",1882,1912,29,Male,Restaurant Staff,,,,Southampton,Soup Cook,LOST,,,French,https://www.encyclopedia-titanica.org/titanic-victim/claude-marie-janin.html
+"GRACEY, Mr John",1859,1913,53,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-gracey.html
+"CROVELLA, Sig. Paolo Luigi",1895,1912,16,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/luigi-louis-crovella.html
+"BLAKE, Mr Percival Albert",1889,1968,22,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/percival-albert-blake.html
+"NICHOLS, Mr Arthur",1866,1912,45,Male,Victualling Crew,,,,Southampton,Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-nichols.html
+"SENIOR, Mr Harry",1881,1937,31,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/harry-senior.html
+"HAYTER, Mr Arthur",1867,1912,44,Male,Victualling Crew,,,,Belfast,Bed Room Steward,LOST,,25,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-hayter.html
+"KIRKALDY, Mr Thomas Benjamin",1876,1912,35,Male,Victualling Crew,,,,Southampton,Bed Room Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-kirkaldy.html
+"MCDONALD, Mr George",1882,,30,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/george-mcdonald.html
+"TESTONI, Sig. Ercole",1888,1912,23,Male,Restaurant Staff,,,,Southampton,Assistant Glass Man,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/ercole-testoni.html
+"BREWSTER, Mr George Henry",1859,1912,52,Male,Victualling Crew,,,,Belfast,Bedroom Steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-brewster.html
+"SELF, Mr Alfred Henry",1872,1912,39,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/alfred-henry-self.html
+"BYRNE, Mr James Edward",1867,1912,44,Male,Victualling Crew,,,,Southampton,Bedroom Steward (2nd Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/j-byrne.html
+"INGRAM, Mr George",1892,1912,19,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,204,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-ingram.html
+"BOCHET, Mr Pietro Giuseppe",1868,1912,43,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/pietro-giuseppe-bochet.html
+"NORRIS, Mr James",1890,1912,22,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/j-norris.html
+"PACEY, Mr Reginald lvan",1894,1912,17,Male,Victualling Crew,,,,Southampton,Lift Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/reginald-lvan-pacey.html
+"CHARMAN, Mr John James",1886,1912,25,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-charman.html
+"HALLETT, Mr George Alexander",1889,1912,23,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-hallett.html
+"CRAIG, Mr David",1879,,33,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/david-craig.html
+"SCOTT, Mr John",1892,1912,20,Male,Victualling Crew,,,,Southampton,Assistant boots steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-scott.html
+"MAUGé, Mr Paul Achille Maurice Germain",1887,1971,25,Male,Restaurant Staff,,,,Southampton,Kitchen Clerk,SAVED,,,French,https://www.encyclopedia-titanica.org/titanic-survivor/paul-achille-maurice-germain-mauge.html
+"MCGOWN, Mr Barney",1869,,43,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/barney-mcgown.html
+"LANE, Mr Albert Edward",1879,1912,33,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/albert-edward-lane.html
+"WOODS, Mr Hugh",1881,1963,31,Male,Engineering Crew,,,,Belfast,Leading Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/hugh-woods.html
+"MCANESPIE, Mr James",1860,1931,52,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-mcanespie.html
+"BENSON, Mr James",1862,,50,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-benson.html
+"FAY, Mr Thomas Joseph",1881,1912,30,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-joseph-fay.html
+"PARSONS, Mr Richard Henry",1893,1912,18,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/richard-parsons.html
+"HARRISON, Mr Norman E.",1873,1912,38,Male,Engineering Crew,,,,Belfast,Junior 2nd. Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/norman-harrison.html
+"KING, Mr Ernest Waldron",1884,1912,28,Male,Victualling Crew,,,,Southampton,Clerk (1st class),LOST,,321,Irish,https://www.encyclopedia-titanica.org/titanic-victim/ernest-waldron-king.html
+"BARKLEY, Mr Robert",1873,,39,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/robert-barkley.html
+"WHITE, Mr Leonard Lisle Oliver",1880,1912,32,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,,Australian,https://www.encyclopedia-titanica.org/titanic-victim/leonard-lisle-oliver-white.html
+"SIMS, Mr W.",1882,,30,Male,Engineering Crew Left with Consent,,,,Southampton,Fireman,,,,,https://www.encyclopedia-titanica.org/titanic-biography/sims-w.html
+"MCMULLAN, Mr Patrick",1882,,30,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/patrick-mcmullan.html
+"LEWIS, Mr James",1871,1917,40,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-lewis.html
+"SNAPE, Mrs Lucy Violet",1890,1912,22,Female,Victualling Crew,,,,Southampton,Stewardess,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/lucy-violet-snape.html
+"LITTLE, Mr James",1863,,49,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-little.html
+"O'CONNOR, Mr Thomas Peter",1868,1912,44,Male,Victualling Crew,,,,Belfast,1st Class Bedroom Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-peter-oconnor.html
+"NETTLETON, Mr George Walter",1882,1912,30,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-nettleton.html
+"SMITH, Mr William",1886,1912,26,Male,Deck Crew,,,,Southampton,Seaman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-smith.html
+"CARTER, Mr James",1866,1912,46,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-carter-ball.html
+"LYTTLE, Mr James",1881,1975,30,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-lyttle.html
+"GODLEY, Mr George Auguste",1873,1940,38,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-godley.html
+"WARD, Mr James William",1881,1912,31,Male,Engineering Crew,,,,Southampton,Leading Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/j-ward.html
+"GODWIN, Mr Frederick Charles",1876,1912,36,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-charles-godwin.html
+"FOLEY, Mr John",1865,1934,46,Male,Deck Crew,,,,Belfast,Deck storekeeper,SAVED,,,Irish,https://www.encyclopedia-titanica.org/titanic-survivor/john-foley.html
+"DODD, Mr Edward Charles",1873,1912,39,Male,Engineering Crew,,,,Belfast,Junior 3rd. Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-charles-dodd.html
+"BURRAGE, Mr Arthur Victor Edwards",1891,1951,20,Male,Victualling Crew,,,,Southampton,Plate Steward,SAVED,13,,English,https://www.encyclopedia-titanica.org/titanic-survivor/alfred-burrage.html
+"ANDERSON, Mr Walter Yuill",1861,1912,50,Male,Victualling Crew,,,,Southampton,Bed Room Steward,LOST,,146,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/walter-anderson.html
+"HAMBLYN, Mr Ernest William",1865,1912,47,Male,Victualling Crew,,,,Southampton,2nd Class Bedroom Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/ernest-william-hamblyn.html
+"LIGHT, Mr W.",1865,1912,47,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-light.html
+"FLETCHER, Mr Percy William",1887,1912,25,Male,Victualling Crew,,,,Belfast,Bugler Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/percy-william-fletcher.html
+"BLANEY, Mr James",1880,1912,32,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/james-blaney.html
+"MCGRADY, Mr James",1885,1912,27,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,330,Irish,https://www.encyclopedia-titanica.org/titanic-victim/james-mcgrady.html
+"BENNETT, Mrs Mabel Kate",1878,1974,33,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,5,,English,https://www.encyclopedia-titanica.org/titanic-survivor/mabel-bennett.html
+"MCINERNEY, Mr Thomas",1873,1912,38,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-mcinerney.html
+"MARKS, Mr James",1884,1912,27,Male,Victualling Crew,,,,Southampton,Assistant Pantryman Steward (1st Class),LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/j-marks.html
+"MORRIS, Mr William Edward",1889,1912,23,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-edward-morris.html
+"BAILEY, Mr George Frank",1866,1912,46,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Welsh,https://www.encyclopedia-titanica.org/titanic-victim/george-bailey.html
+"BURNS, Mr William Simpson",1874,1953,37,Male,Engineering Crew,,,,Belfast,Greaser,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-burns.html
+"KAVANAGH, Mr William",1885,,26,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Australian,https://www.encyclopedia-titanica.org/titanic-biography/william-kavanagh.html
+"QUINN, Mr John",1876,,36,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-quinn.html
+"DONATI, Sig. Italo Francesco",1894,1912,17,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,311,Italian,https://www.encyclopedia-titanica.org/titanic-victim/italo-francesco-donati.html
+"TAYLOR, Mr Charles William Frederick",1871,1912,40,Male,Deck Crew,,,,Southampton,Able-bodied Seaman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/c-taylor.html
+"COLEMAN, Mr John",1854,1912,57,Male,Engineering Crew,,,,Belfast,Engineers' Mess steward,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/john-coleman.html
+"MCGEE, Mr Samuel",1864,,48,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/samuel-mcgee.html
+"DONOHOE, Mr Hugh Moses",1874,,37,Male,Deck Crew,,,,Belfast,Able Seaman,,,,,https://www.encyclopedia-titanica.org/titanic-biography/hugh-donohoe.html
+"BROOME, Mr Athol Frederick",1881,1912,31,Male,Victualling Crew,,,,Southampton,Verandah Steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/athol-frederick-broome.html
+"HURST, Mr Walter",1888,1964,23,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,B,,English,https://www.encyclopedia-titanica.org/titanic-survivor/walter-hurst.html
+"ALLEN, Mr Ernest Frederick",1888,1968,24,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,B,,English,https://www.encyclopedia-titanica.org/titanic-survivor/ernest-frederick-allen.html
+"JAGO, Mr Joseph",1853,1912,59,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/joseph-jago.html
+"WALKER, Mr Robert",1869,,43,Male,Engineering Crew,,,,Belfast,Trimmer,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/robert-walker.html
+"BENDELL, Mr Frank",1888,1912,23,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/f-bendell.html
+"CROSKERY, Mr Thomas",1871,1950,40,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-croskery.html
+"ROBINSON, Mr Samuel",1869,,43,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/samuel-robinson.html
+"DEEBLE, Mr Alfred Arnold",1877,1912,34,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,270,English,https://www.encyclopedia-titanica.org/titanic-victim/alfred-arnold-deeble.html
+"LLOYD, Mr Humphrey",1871,1912,41,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,57,English,https://www.encyclopedia-titanica.org/titanic-victim/humphrey-lloyd.html
+"BARLOW, Mr George",1872,1912,39,Male,Victualling Crew,,,,Southampton,Bed Room Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-barlow.html
+"CHEEVERS, Mr William",1880,1914,31,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-cheevers.html
+"WATERIDGE, Mr Edward Lewis",1886,1912,26,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-lewis-wateridge.html
+"RIDOUT, Mr Walter George",1882,1912,29,Male,Victualling Crew,,,,Southampton,Second Class Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-ridout.html
+"ALLSOP, Mr Alfred Samuel",1876,1912,36,Male,Engineering Crew,,,,Belfast,2nd Electrician,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/alfred-samuel-allsop.html
+"HARDY, Mr John",1871,1953,40,Male,Victualling Crew,,,,Belfast,Chief Second Class Steward,SAVED,D,,English,https://www.encyclopedia-titanica.org/titanic-survivor/john-hardy.html
+"WALLIS, Mrs Catherine Jane",1876,1912,36,Female,Victualling Crew,,,,Southampton,Matron,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/catherine-jane-wallis.html
+"BARKER, Mr George",1856,,56,Male,Engineering Crew,,,,Belfast,Storekeeper,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/george-barker.html
+"HAWKESWORTH, Mr William Walter",1869,1912,43,Male,Victualling Crew,,,,Southampton,Deck Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-walter-hawkesworth.html
+"ZANETTI, Sig. Minio",1892,1912,20,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,,Swiss,https://www.encyclopedia-titanica.org/titanic-victim/minio-zanetti.html
+"CULLEN, Mr Charles James",1863,1939,49,Male,Victualling Crew,,,,Belfast,1st Class Bedroom Steward,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-cullen.html
+"LONG, Mr William",1876,1912,36,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-long.html
+"WALPOLE, Mr James",1864,1912,48,Male,Victualling Crew,,,,Belfast,Chief Pantryman Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-walpole.html
+"FORWARD, Mr James",1884,1940,27,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,16,,English,https://www.encyclopedia-titanica.org/titanic-survivor/james-forward.html
+"LEE, Mr Herbert Henry",1894,1912,17,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/h-lee.html
+"BENSON, Mr William",1887,1967,25,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-benson.html
+"HENDRICKSON, Mr Charles Osker",1883,1956,28,Male,Engineering Crew,,,,Southampton,Leading Fireman,SAVED,1,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-george-hendrickson.html
+"DICKSON, Mr William",1875,1912,37,Male,Engineering Crew Substitute Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-dickson.html
+"WOODMEY, Mr Robert",1871,,41,Male,Engineering Crew,,,,Belfast,Fireman,,,,Scottish,https://www.encyclopedia-titanica.org/titanic-biography/robert-woodmey.html
+"LYTLE, Mr Thomas",1881,,31,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-lytle.html
+"MCELROY, Mr Hugh Walter",1874,1912,37,Male,Victualling Crew,,,,Southampton,Purser,LOST,,157,English,https://www.encyclopedia-titanica.org/titanic-victim/hugh-walter-mcelroy.html
+"WRIGHT, Mr Frederick",1888,1912,24,Male,Victualling Crew,,,,Southampton,Squash racquet court attendant,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-wright.html
+"LYONS, Mr William Henry",1886,1912,25,Male,Deck Crew,,,,Southampton,Able Seaman,LOST,4,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/william-henry-lyons.html
+"BURNS, Mr John",1880,,31,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-burns.html
+"MCRAE, Mr William Alexander",1880,1912,32,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-alexander-mcrae.html
+"HALPIN, Mr Joseph",1888,,24,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/joseph-halpin.html
+"MATHERSON, Mr David",1879,1912,33,Male,Deck Crew,,,,Southampton,Able Seaman,LOST,,192,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/david-matherson.html
+"PUZEY, Mr John Edward",1868,1912,44,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-pusey.html
+"BROOM, Mr Herbert George",1879,1912,33,Male,Victualling Crew,,,,Belfast,Bath Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/h-broom.html
+"SHULVER, Mr Christopher Arthur",1883,1922,28,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/john-dilley.html
+"HURST, Mr Charles John",1871,1912,40,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-john-hurst.html
+"STAP, Miss Sarah Agnes",1864,1937,47,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/sarah-agnes-stap.html
+"TAMLYN, Mr Frederick",1888,1912,23,Male,Deck Crew,,,,Southampton,Mess Steward (Deck Dept.),LOST,,123,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-tamlyn.html
+"BARTON, Mr Sidney John",1886,1912,26,Male,Victualling Crew,,,,Southampton,3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/sidney-john-barton.html
+"FERRON, Mr Nicholas",1878,,34,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/nicholas-ferron.html
+"SEDUNARY, Mr Samuel Francis",1887,1912,25,Male,Victualling Crew,,,,Southampton,Second third class steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/sidney-francis-sedunary.html
+"BIDDLECOMBE, Mr Reginald Charles",1880,1912,31,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-biddlecombe.html
+"NOSS, Mr Henry",1881,1961,30,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/henry-noss.html
+"SHAW, Mr James",1872,,40,Male,Engineering Crew Deserted,,,,Southampton,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/shaw-j.html
+"KASPER, Mr F.",1872,,40,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,9,,German,https://www.encyclopedia-titanica.org/titanic-survivor/f-kasper.html
+"CHABOISSON, Mr Adrien Firmin",1886,1912,25,Male,Restaurant Staff,,,,Southampton,Roast Cook,LOST,,,French,https://www.encyclopedia-titanica.org/titanic-victim/adrien-finnin-chaboisson.html
+"SYMONS, Mr George Thomas Macdonald",1888,1950,24,Male,Deck Crew,,,,Southampton,Lookout,SAVED,1,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-thomas-macdonald-symons.html
+"REEVES, Mr Frederick Vernon Hilton",1891,1912,20,Male,Victualling Crew,,,,Belfast,Assistant Pantryman Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/f-smith.html
+"PUSEY, Mr William Robert Holland",1890,1918,22,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,1,,English,https://www.encyclopedia-titanica.org/titanic-survivor/robert-william-pusey.html
+"WARD, Mr William",1874,1941,37,Male,Victualling Crew,,,,Southampton,Saloon Steward,SAVED,9,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-ward.html
+"PERACCHIO, Sig. Sebastiano",1894,1912,17,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/sebastiano-peracchio.html
+"WHITE, Mr Albert",1895,1912,17,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/r-morell.html
+"MCARTHUR, Mr James",1880,1942,32,Male,Engineering Crew,,,,Belfast,Fireman,,,,Scottish,https://www.encyclopedia-titanica.org/titanic-biography/james-mcarthur.html
+"AULD, Mr James",1880,,32,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-auld.html
+"NICHOLS, Mr Albert William Stanley",1864,1912,47,Male,Deck Crew,,,,Belfast,Boatswain,LOST,,,Australian,https://www.encyclopedia-titanica.org/titanic-victim/alfred-nichols.html
+"HUTTON, Mr George",1875,,37,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/george-hutton.html
+"SCARROTT, Mr Joseph George",1878,1938,33,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,14,,English,https://www.encyclopedia-titanica.org/titanic-survivor/joseph-george-scarrott.html
+"STEVENSON, Mr Andrew",1884,,28,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/andrew-stevenson.html
+"PAINTIN, Mr James Arthur",1882,1912,29,Male,Victualling Crew,,,,Southampton,Captain's Steward (Tiger),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-arthur-paintin.html
+"COLLINS, Mr John",1894,1941,17,Male,Victualling Crew,,,,Southampton,Scullion,SAVED,B,,Irish,https://www.encyclopedia-titanica.org/titanic-survivor/john-collins.html
+"MCGAW, Mr Erroll Victor",1882,1912,30,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/eroll-mcgaw.html
+"OSMAN, Mr Frank",1885,1938,27,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,2,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frank-osman.html
+"BLISS, Mrs Emma",1866,1959,45,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,15,,Swiss,https://www.encyclopedia-titanica.org/titanic-survivor/emma-bliss.html
+"MCCARRON, Mr David John",1878,1918,33,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/david-mccarron.html
+"CASSWILL, Mr Charles",1877,1912,34,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-casswill.html
+"BAILEY, Mr George",1868,1912,44,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,161,English,https://www.encyclopedia-titanica.org/titanic-victim/george-francis-bailey.html
+"ROGERS, Mr Edward James William",1880,1912,31,Male,Victualling Crew,,,,Southampton,Assistant Storekeeper,LOST,,282,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-james-william-rogers.html
+"BALL, Mr Percy",1894,1933,18,Male,Victualling Crew,,,,Southampton,Plate Steward,SAVED,13,,English,https://www.encyclopedia-titanica.org/titanic-survivor/percy-ball.html
+"COOK, Mr Gilbert William",1880,1912,32,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/gilbert-william-cook.html
+"ARMSTRONG, Mr James",1881,,31,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-armstrong.html
+"BARNES, Mr Charles",1883,1912,29,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-barnes.html
+"SCOTT, Mr Frederick William",1884,1915,28,Male,Engineering Crew,,,,Southampton,Greaser,SAVED,4,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frederick-william-scott.html
+"SIMMS, Mr William",1874,,38,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-simms.html
+"HARKIN, Mr Samuel",1869,1931,43,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/samuel-harkin.html
+"GILES, Mr John Robert",1879,1912,32,Male,Victualling Crew,,,,Southampton,2nd Baker,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-robert-giles.html
+"WYNN, Mr William",1870,1945,41,Male,Deck Crew,,,,Belfast,Quartermaster,SAVED,9,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-wynn.html
+"MOYES, Mr William Young",1887,1912,24,Male,Engineering Crew,,,,Belfast,Senior 6th. Engineer,LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/william-young-moyes.html
+"MARCH, Mr John Starr",1861,1912,50,Male,Victualling Crew Postal Clerk,,,,Southampton,Postal Clerk / Postman,LOST,,225,American,https://www.encyclopedia-titanica.org/titanic-victim/john-starr-march.html
+"HOUSE, Mr William Charles",1866,1912,45,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-house.html
+"SLIGHT, Mr William Henry James",1875,1912,36,Male,Victualling Crew,,,,Belfast,Larder Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-slight.html
+"NUTBEAN, Mr William",1881,1947,30,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-nutbean.html
+"MAWHINNEY, Mr John",1855,1918,57,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-mawhinney.html
+"BEATTIE, Mr Francis",1873,1943,39,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/francis-beattie.html
+"MARTIN, Miss Mabel Elvina",1892,1960,20,Female,Restaurant Staff,,,,Southampton,Cashier,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/mabel-edwina-martin.html
+"BARRETT, Mr Frederick William",1879,1912,33,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-william-barrett.html
+"MOORES, Mr Richard Henry",1868,1912,44,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/richard-henry-moores.html
+"MCGEE, Mr Patrick",1879,,33,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/patrick-mcgee.html
+"TAYLOR, Mr John Henry",1862,1912,49,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-taylor.html
+"CHITTY, Mr Archibald George",1883,1912,28,Male,Victualling Crew,,,,Southampton,Third Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/archibald-george-chitty.html
+"WALLS, Mr James",1879,1943,32,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-walls.html
+"ROBERTS, Mr Robert George",1877,1912,35,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/robert-george-roberts.html
+"HART, Mr John Edward",1881,1954,31,Male,Victualling Crew,,,,Southampton,Steward,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/john-edward-hart.html
+"CARDWELL, Mr John",1879,1963,32,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-cardwell.html
+"DYMOND, Mr Frank",1876,1947,36,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frank-dymond.html
+"PEDRINI, Sig. Alessandro",1890,1912,21,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,104,Swiss,https://www.encyclopedia-titanica.org/titanic-victim/alessandro-pedrini.html
+"HARRIS, Mr Clifford Henry",1895,1912,17,Male,Victualling Crew,,,,Southampton,Bell Boy,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/clifford-henry-harris.html
+"ROSS, Mr Horace Leopold",1874,1940,38,Male,Victualling Crew,,,,Southampton,Scullion,SAVED,13,,English,https://www.encyclopedia-titanica.org/titanic-survivor/horace-leopold-ross.html
+"PRICHARD, Mrs Alice Maud",1875,1948,36,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/alice-prichard.html
+"BASILICO, Sig. Giovanni",1885,1912,27,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/giovanni-basilico.html
+"COCHRANE, Mr Robert",1867,,44,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/robert-cochrane.html
+"FEI, Sig. Carlo",1893,1912,19,Male,Restaurant Staff,,,,Southampton,Scullion,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/carlo-fey.html
+"BRICE, Mr Walter Thomas",1869,1928,42,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/walter-brice.html
+"SIMMONS, Mr William Simon Catcott",1875,1912,37,Male,Victualling Crew,,,,Southampton,Passage Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-simmons.html
+"HODGE, Mr Charley",1883,1912,29,Male,Engineering Crew,,,,Belfast,Senior Assistant 3rd. Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-hodge.html
+"MCCARTY, Mr Frederick James",1873,1912,38,Male,Victualling Crew,,,,Southampton,Bedroom Steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-mccarthy.html
+"MACKIE, Mr George William",1877,1912,34,Male,Victualling Crew,,,,Southampton,2nd Class Bedroom Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-william-mackie.html
+"MCGARVEY, Mr Edward Joseph",1878,1912,34,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-joseph-mcgarvey.html
+"HAINES, Mr Albert",1880,1933,31,Male,Deck Crew,,,,Belfast,Boatswain Mate,SAVED,9,,English,https://www.encyclopedia-titanica.org/titanic-survivor/albert-haines.html
+"JEFFERY, Mr William Alfred",1884,1912,28,Male,Restaurant Staff,,,,Southampton,A la carte restaurant controller,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-alfred-jeffery.html
+"HOLLAND, Mr Thomas",1883,1912,28,Male,Victualling Crew,,,,Belfast,Reception Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-holland.html
+"HUTCHINSON, Mr John Hall",1884,1912,28,Male,Deck Crew,,,,Belfast,Carpenter / Joiner,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-hall-hutchinson.html
+"ANDREWS, Mr Charles Edward",1893,1961,19,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),SAVED,16,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-edward-andrews.html
+"MAYO, Mr William Peter",1884,1912,27,Male,Engineering Crew,,,,Southampton,Leading Fireman,LOST,,177,English,https://www.encyclopedia-titanica.org/titanic-victim/william-peter-mayo.html
+"SMITH, Mr Ernest George",1885,1912,27,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/ernest-george-smith.html
+"FLACK, Mr John",1883,1961,28,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-flack.html
+"WAUGH, Mr James",1885,,26,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-waugh.html
+"CARTWRIGHT, Mr James Edward",1879,1912,33,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,320,English,https://www.encyclopedia-titanica.org/titanic-victim/james-edward-cartwright.html
+"DOUGLAS, Mr William",1879,,32,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-douglas.html
+"OSBORNE, Mr William Edward",1879,1912,33,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-edward-osborne.html
+"HENDY, Mr Edward Martin",1872,1912,39,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-martin-hendy.html
+"NOLAN, Mr Michael Bernard",1872,1941,40,Male,Engineering Crew,,,,Belfast,Leading Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/michael-nolan.html
+"WHITFORD, Mr Alfred Henry",1872,1912,39,Male,Victualling Crew,,,,Southampton,"Saloon Steward, 2nd Class",LOST,,,Channel Islander,https://www.encyclopedia-titanica.org/titanic-victim/alfred-henry-whitford.html
+"FLYNN, Mr Michael",1879,1942,32,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/michael-flinn.html
+"MCENTEE, Mr Charles Edward",1872,1940,40,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/charles-mcentee.html
+"JACKOPSON, Mr John Henry",1881,1912,30,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-jacobson.html
+"CRAFTER, Mr Frederick Horace",1891,1960,20,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frederick-crafter.html
+"JUPE, Mr Boylett Herbert",1881,1912,30,Male,Engineering Crew,,,,Southampton,Electrician,LOST,,73,English,https://www.encyclopedia-titanica.org/titanic-victim/herbert-jupe.html
+"OLIVE, Mr Ernest Roskelly",1885,1912,27,Male,Victualling Crew,,,,Southampton,Clothes Presser Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/ernest-roskelly-olive.html
+"BENVILLE, Mr Edward",1864,1912,47,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/e-benville.html
+"GILARDINO, Sig. Vincenzo Pio",1881,1912,31,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/vincenzo-pio-gilardino.html
+"GORDON, Mr John",1882,1912,30,Male,Engineering Crew Substitute Crew,,,,Southampton,Trimmer,LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/j-gordon.html
+"MORGAN, Mr Patrick",1885,,26,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/patrick-morgan.html
+"PHILLIMORE, Mr Harold Charles William",1888,1967,23,Male,Victualling Crew,,,,Belfast,Saloon Steward (2nd class),SAVED,14,,English,https://www.encyclopedia-titanica.org/titanic-survivor/harold-charles-william-phillimore.html
+"COLEMAN, Mr Albert Edward",1883,1912,28,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/albert-edward-coleman.html
+"INSTANCE, Mr Thomas",1881,1912,31,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/t-instance.html
+"COMBES, Mr George",1877,1916,34,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,3,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-combes.html
+"CHISNALL, Mr George Alexander",1875,1912,36,Male,Engineering Crew,,,,Belfast,Boilermaker,LOST,,111,English,https://www.encyclopedia-titanica.org/titanic-victim/george-alexander-chisnall.html
+"EVANS, Mr William Thomas",1878,1912,33,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,31,English,https://www.encyclopedia-titanica.org/titanic-victim/william-evans.html
+"BAGLEY, Mr Edward Henry",1879,1912,33,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-ernest-bagley.html
+"PERREN, Mr William Charles",1864,1912,47,Male,Victualling Crew,,,,Southampton,Boots Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-charles-perren.html
+"SLOCOMBE, Mrs Maude Louise",1881,1967,30,Female,Victualling Crew,,,,Southampton,Turkish Bath Stewardess,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/maude-slocombe.html
+"WOOD, Mr James Thomas",1863,1912,49,Male,Victualling Crew,,,,Southampton,"Assistant Saloon Steward, 2nd Class",LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-thomas-wood.html
+"PETERS, Mr William Chapman",1886,1950,26,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,9,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-chapman-peters.html
+"ROWE, Mr Edgar Maurice",1880,1912,31,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edgar-maurice-rowe.html
+"PHILLIPS, Mr William",1886,,26,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-phillips.html
+"FRYER, Mr Albert Ernest",1882,1944,29,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/albert-ernest-fryer.html
+"WITTS, Mr William Francis",1877,1912,35,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frank-witts.html
+"GOSLING, Mr Frank Henry",1887,1912,25,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/s-gosling.html
+"NOON, Mr John Thomas",1870,1912,42,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-noon.html
+"KERNEY, Mr William",1873,,39,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-kerney.html
+"HOGUE, Mr E.",1890,1912,22,Male,Victualling Crew,,,,Southampton,Plate Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/e-hogue.html
+"RIGOZZI, Mr Abele",1890,1912,22,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,115,Swiss,https://www.encyclopedia-titanica.org/titanic-victim/abele-rigozzi.html
+"ANDERSON, Mr John",1870,,42,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,3,,English,https://www.encyclopedia-titanica.org/titanic-survivor/john-anderson.html
+"BAKER, Mr John",1880,1933,32,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-baker-barker.html
+"CUNNINGHAM, Mr Bernard",1877,1912,35,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/b-cunningham.html
+"BARKER, Mr George",1866,,46,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/able-seaman-george-barker.html
+"BESSANT, Mr Edward",1880,1912,31,Male,Victualling Crew,,,,Southampton,1st class baggage steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-bessant.html
+"CAMPBELL, Mr Donald Samuel",1884,1912,28,Male,Victualling Crew,,,,Southampton,3rd Class Clerk,LOST,,,Australian,https://www.encyclopedia-titanica.org/titanic-victim/donald-campbell.html
+"HARVEY, Mr John",1886,,26,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-harvey.html
+"CHITTY, Mr George Henry",1862,1912,50,Male,Victualling Crew,,,,Southampton,Baker,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-henry-chitty.html
+"MCGREEVY, Mr Richard",1886,1913,25,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/richard-mcgreevy.html
+"THRELFALL, Mr Thomas",1867,1934,44,Male,Engineering Crew,,,,Southampton,Leading Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/thomas-threlfall.html
+"MCATEER, Mr John",1875,1948,37,Male,Engineering Crew,,,,Belfast,Greaser,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-mcateer.html
+"HALL, Mr Frank Alfred James",1871,1912,40,Male,Victualling Crew,,,,Southampton,Scullion,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/f-hall.html
+"EASTMAN, Mr Charles",1868,1912,44,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-eastman.html
+"SMITH, Mr John Richard Jago",1877,1912,35,Male,Victualling Crew Postal Clerk,,,,Southampton,Postal Clerk / Postman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-richard-jago-smith.html
+"MIDDLETON, Mr Alfred Pirrie",1884,1912,27,Male,Engineering Crew,,,,Belfast,Assistant Electrician,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/alfred-pirrie-middleton.html
+"DINENAGE, Mr James Richard",1863,1912,49,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-richard-dinenage.html
+"KEENAN, Mr William",1875,,36,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-keenan.html
+"HADLEY, Mr John",1862,,50,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-hadley.html
+"BULLEY, Mr Henry Ashburnham",1890,1912,21,Male,Victualling Crew,,,,Southampton,Boots Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-ashburnham-bulley.html
+"BINSTEAD, Mr Walter William",1891,1959,20,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,3,,English,https://www.encyclopedia-titanica.org/titanic-survivor/walter-binstead.html
+"WARWICK, Mr Tom",1886,1912,25,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/tom-warwick.html
+"MCILWAINE, Mr James",1887,,25,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-mcilwaine.html
+"DAWSON, Mr Joseph",1888,1912,23,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,227,Irish,https://www.encyclopedia-titanica.org/titanic-victim/joseph-dawson.html
+"WILLIAMS, Mr Samuel Solomon",1884,1912,28,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/samuel-williams.html
+"DAWKINS, Mr P.",1888,,24,Male,Victualling Crew Failed to Join Ship,,,,Southampton,Assistant Cook,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/dawkins-p.html
+"KINCHENTEN, Mr Frederick Charles",1875,1912,36,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-kenchenten.html
+"HINCKLEY, Mr George Herbert",1872,1912,40,Male,Victualling Crew,,,,Southampton,Bathroom Steward (1st Class),LOST,,66,English,https://www.encyclopedia-titanica.org/titanic-victim/george-hinckley.html
+"KEARL, Mr George Edward",1886,1912,25,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/g-kearl.html
+"HOGG, Mr George Alfred",1883,1946,29,Male,Deck Crew,,,,Belfast,Lookout,SAVED,7,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-alfred-hogg.html
+"THOMAS, Mr Benjamin James",1881,1937,30,Male,Victualling Crew,,,,Belfast,Saloon Steward,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/benjamin-james-thomas.html
+"MCMULLAN, Mr Richard",1892,1951,19,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/mcmullan-richard.html
+"MILLS, Mr Christopher",1860,1930,51,Male,Victualling Crew,,,,Southampton,Butcher,SAVED,C,,English,https://www.encyclopedia-titanica.org/titanic-survivor/christopher-mills.html
+"MOODY, Mr James Paul",1887,1912,24,Male,Deck Crew Titanic Officers,,,,Belfast,6th. Officer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-paul-moody.html
+"BARNES, Mr William John",1875,1927,36,Male,Engineering Crew,,,,Belfast,Leading Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-barnes.html
+"MCMULLIN, Mr John Richard",1876,1912,36,Male,Victualling Crew,,,,Belfast,First class saloon steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-mcmullin.html
+"NANNINI, Sig. Francesco Luigi Arcangelo",1870,1912,42,Male,Restaurant Staff,,,,Southampton,Head Waiter (Restaurant),LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/francesco-luigi-arcangelo-nannini.html
+"GILL, Mr Patrick",1874,1912,38,Male,Victualling Crew,,,,Southampton,Ship's Cook,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/patrick-gill.html
+"DONOGHUE, Mr Florence Thomas",1880,1912,31,Male,Victualling Crew,,,,Belfast,Bed Room Steward,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/frank-thomas-donoghue.html
+"HALFORD, Mr Richard",1884,1953,27,Male,Victualling Crew,,,,Southampton,3rd Class Steward,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/richard-halford.html
+"AKERMAN, Mr Joseph Francis",1874,1912,37,Male,Victualling Crew,,,,Southampton,Assistant Pantryman Steward,LOST,,205,English,https://www.encyclopedia-titanica.org/titanic-victim/joseph-francis-akerman.html
+"LAHY, Mr T.",1871,1912,41,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/t-lahy.html
+"WEATHERSTON, Mr Thomas Herbert",1887,1912,25,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-herbert-weatherstone.html
+"MEWE, Mr W. J.",1877,,35,Male,Victualling Crew Failed to Join Ship,,,,Southampton,Sauce Cook,,,,,https://www.encyclopedia-titanica.org/titanic-biography/mewe.html
+"SMITH, Mr Charles Edwin",1872,1912,39,Male,Victualling Crew,,,,Southampton,2nd Class Bedroom Steward,LOST,,329,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-edwin-smith.html
+"BEATTIE, Mr Joseph John",1871,1912,40,Male,Engineering Crew,,,,Belfast,Greaser,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/joseph-beattie.html
+"JESSOP, Miss Violet Constance",1887,1971,24,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,,,"English,Argentinian",https://www.encyclopedia-titanica.org/titanic-survivor/violet-constance-jessop.html
+"CARSON, Mr James",1875,1950,36,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-carson.html
+"BLUMET, Mr Jean Baptiste",1886,1912,26,Male,Restaurant Staff,,,,Southampton,Pantryman,LOST,,,French,https://www.encyclopedia-titanica.org/titanic-victim/jean-baptiste-blumet.html
+"PETTY, Mr Edwin Henry",1887,1912,25,Male,Victualling Crew,,,,Southampton,Bedroom Steward (2nd class),LOST,,82,English,https://www.encyclopedia-titanica.org/titanic-victim/edwin-henry-petty.html
+"BURR, Mr Ewart Sydenham",1883,1912,29,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/ewart-sydenham-burr.html
+"WILLSHER, Mr William Aubrey",1878,1912,33,Male,Victualling Crew,,,,Southampton,Butcher,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-audrey-willsher.html
+"VALLER, Mr Arthur",1885,,26,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/arthur-valler.html
+"HADDOCK, Mr Herbert James",1861,1946,51,Male,Deck Crew Titanic Officers,,,,Belfast,Master,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/herbert-james-haddock.html
+"HANDS, Mr Bernard",1858,1912,54,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/bernard-hands.html
+"GAMBLE, Mr William",1883,1942,28,Male,Engineering Crew,,,,Belfast,Greaser,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-john-gamble.html
+"SMITHER, Mr Harry James",1889,1912,22,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/harry-james-smither.html
+"MITCHELL, Mr Lorenzo Horace",1893,1912,19,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/lawrence-mitchell.html
+"PROUDFOOT, Mr Richard Royston",1890,1912,21,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/richard-proudfoot.html
+"YEARSLEY, Mr Harry",1871,1939,40,Male,Victualling Crew,,,,Southampton,First class saloon steward,SAVED,9,,English,https://www.encyclopedia-titanica.org/titanic-survivor/harry-yearsley.html
+"BOWMAN, Mr F. T.",1874,,38,Male,Victualling Crew Failed to Join Ship,,,,Southampton,Assistant Cook,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/bowman.html
+"BAILEY, Mr Henry Joseph",1865,1943,46,Male,Deck Crew,,,,Southampton,Master-at-arms,SAVED,16,,English,https://www.encyclopedia-titanica.org/titanic-survivor/joseph-henry-bailey.html
+"MAXWELL, Mr John",1882,1912,29,Male,Deck Crew,,,,Belfast,Carpenter / Joiner,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-maxwell.html
+"SMITH, Mr Reginald George",1879,1912,33,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/reginald-george-smith.html
+"HARTNELL, Mr Fred",1890,1920,21,Male,Victualling Crew,,,,Southampton,Saloon Steward,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frederick-hartnell.html
+"MCKINNEY, Mr Peter",1874,1928,37,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/peter-mckinney.html
+"COUPER, Mr Robert Frederick William",1882,1941,30,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,3,,English,https://www.encyclopedia-titanica.org/titanic-survivor/robert-couper.html
+"MABEY, Mr John Charles",1888,1912,23,Male,Victualling Crew,,,,Southampton,3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-charles-mabey.html
+"HOLDEN, Mr Frank",1883,,29,Male,Engineering Crew Deserted,,,,Southampton,Fireman,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/holden-f.html
+"SKINNER, Mr Edward",1871,1912,41,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-skinner.html
+"CHERRETT, Mr William Victor",1887,1912,24,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-victor-cherrett.html
+"LUCAS, Mr William Arthur",1886,1921,25,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,D,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-lucas.html
+"PALLES, Mr Thomas Henry Michael",1867,1912,45,Male,Engineering Crew,,,,Belfast,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-palles.html
+"FAIRALL, Mr Henry Charles",1871,1912,40,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-fairall.html
+"EGG, Mr William Henry",1864,1912,48,Male,Victualling Crew,,,,Southampton,Third class steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-egg.html
+"LEE, Mr Reginald Robinson",1870,1913,41,Male,Deck Crew,,,,Southampton,Lookout,SAVED,13,,English,https://www.encyclopedia-titanica.org/titanic-survivor/reginald-robinson-lee.html
+"MORRIS, Mr Frank Herbert",1883,1954,28,Male,Victualling Crew,,,,Belfast,Bathroom Steward (1st Class),SAVED,14,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frank-herbert-morris.html
+"WATSON, Mr William",1885,1912,27,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,158,English,https://www.encyclopedia-titanica.org/titanic-victim/william-watson.html
+"THRESHER, Mr George Terrill",1886,1939,25,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,9,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-terrill-thresher.html
+"HOLLAND, Mr James",1882,,30,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-holland.html
+"HINDS, Mr Charles",1870,,42,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/charles-hinds.html
+"PHILLIPS, Mr John George",1887,1912,25,Male,Victualling Crew,,,,Belfast,Telegraphist,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/jack-phillips.html
+"JAMES, Mr Thomas",1876,,36,Male,Engineering Crew,,,,Belfast,Trimmer,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/thomas-james-2.html
+"PIAZZA, Sig. Pompeo Gaspro",1879,1912,33,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,266,English,https://www.encyclopedia-titanica.org/titanic-victim/pompeo-piazza.html
+"BRENNAN, Mr Thomas",1873,,39,Male,Engineering Crew,,,,Belfast,Leading Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-brennan.html
+"HAMILTON, Mr William John",1888,1931,24,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-hamilton.html
+"ASHE, Mr Henry Wellesley",1871,1912,41,Male,Victualling Crew,,,,Southampton,Glory hole steward (3rd class),LOST,,34,Irish,https://www.encyclopedia-titanica.org/titanic-victim/henry-wellesley-ashe.html
+"ORR, Mr James",1872,1912,39,Male,Victualling Crew,,,,Southampton,Assistant Vegetable Cook,LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/j-orr.html
+"WITTMAN, Mr Henry",1873,1912,38,Male,Victualling Crew,,,,Southampton,Bathroom Steward (1st Class),LOST,,315,Austrian,https://www.encyclopedia-titanica.org/titanic-victim/henry-wittman.html
+"FOSTER, Mr Alfred Charles",1875,1912,37,Male,Engineering Crew,,,,Belfast,Storekeeper (Engineering),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/alfred-charles-foster.html
+"HEMMING, Mr Samuel Ernest",1868,1928,43,Male,Deck Crew,,,,Belfast,Lamp Trimmer,SAVED,4,,English,https://www.encyclopedia-titanica.org/titanic-survivor/samuel-hemming.html
+"SAMUEL, Mr Owen Wilmore",1865,1912,47,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,217,Welsh,https://www.encyclopedia-titanica.org/titanic-victim/owen-wilmore-samuel.html
+"RICKMAN, Mr George Albert",1876,1912,36,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-albert-rickman.html
+"PERRY, Mr Henry Frederick",1889,1912,23,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-perry.html
+"BEST, Mr Edwin Alfred",1872,1912,40,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edwin-alfred-best.html
+"CLENCH, Mr Frederick Charles",1878,1930,33,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,12,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frederick-clench.html
+"SHEA, Mr John Joseph",1872,1912,39,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,11,English,https://www.encyclopedia-titanica.org/titanic-victim/john-shea.html
+"FORD, Mr Thomas",1879,1912,33,Male,Engineering Crew,,,,Southampton,Leading Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-ford.html
+"WHITE, Mr Frank Leonard",1884,1912,27,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frank-leonard-white.html
+"FLANNIGAN, Mr Thomas",1866,1941,45,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-flannigan.html
+"BARTLEY, Mr Thomas",1876,1957,35,Male,Victualling Crew,,,,Belfast,Room Attendent,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-bartley.html
+"JONES, Mr Harry Owen Glendower",1875,1912,36,Male,Victualling Crew,,,,Southampton,Roast Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/h-jones.html
+"GATTI, Sig. Gaspare Antonio Pietro",1875,1912,37,Male,Restaurant Staff,,,,Southampton,Ã  la Carte Restaurant Manager,LOST,,313,Italian,https://www.encyclopedia-titanica.org/titanic-victim/gaspare-antonio-pietro-gatti.html
+"COOMBS, Mr Charles Augustus",1867,1912,45,Male,Victualling Crew,,,,Southampton,Assistant Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/augustus-charles-coombs.html
+"MOORE, Mr George Alfred",1880,1943,32,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,3,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-alfred-moore.html
+"GWINN, Mr William Logan",1875,1912,37,Male,Victualling Crew Postal Clerk,,,,Southampton,Postal Clerk / Postman,LOST,,,American,https://www.encyclopedia-titanica.org/titanic-victim/william-logan-gwynn.html
+"HEDLEY, Mr Robert",1867,,45,Male,Victualling Crew,,,,Belfast,Room Attendant,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/robert-hedley.html
+"CASSIDY, Mr William John",1881,1953,30,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-cassidy.html
+"WORMALD, Mr Henry Frederick Charles",1867,1912,45,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,144,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-william-wormald.html
+"WHEELTON, Mr Edenser Edward",1884,1949,28,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/edneser-ernest-edward-wheelton.html
+"SMALL, Mr William McMillan",1870,1912,42,Male,Engineering Crew,,,,Southampton,Leading Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-small.html
+"TURVEY, Mr Charles Thomas",1895,1912,17,Male,Restaurant Staff,,,,Southampton,Page Boy,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-turvey.html
+"MILFORD, Mr George",1884,1912,27,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-milford.html
+"JUDD, Mr Charles Edward",1880,1960,31,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,B,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-judd.html
+"BARRETT, Mr Frederick William",1883,1931,29,Male,Engineering Crew,,,,Southampton,Leading Fireman,SAVED,13,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frederick-barrett.html
+"DOYLE, Mr Laurence",1885,1912,27,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/laurence-doyle.html
+"BRIANT, Mr Arthur",1882,1912,30,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-morris.html
+"HORSWILL, Mr Albert Edward James",1879,1962,33,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,1,,English,https://www.encyclopedia-titanica.org/titanic-survivor/albert-edward-james-horswill.html
+"HOLME, Mr Nicholas Joseph",1876,1958,35,Male,Engineering Crew,,,,Belfast,Fireman,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/nicholas-holme.html
+"IDE, Mr Harry John",1880,1912,31,Male,Victualling Crew,,,,Southampton,1st Class Bedroom Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/harry-john-ide.html
+"BRIGHT, Mr Arthur John",1869,1955,42,Male,Deck Crew,,,,Belfast,Quartermaster,SAVED,D,,English,https://www.encyclopedia-titanica.org/titanic-survivor/arthur-john-bright.html
+"BRIDE, Mr Harold Sydney",1890,1956,22,Male,Victualling Crew,,,,Belfast,Assistant Telegraphist,SAVED,B,,English,https://www.encyclopedia-titanica.org/titanic-survivor/harold-sydney-bride.html
+"JENNER, Mr Thomas Henry (Harry)",1856,1912,55,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/harry-jenner.html
+"RANDALL, Mr Frank Henry",1883,1912,29,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frank-henry-randall.html
+"PORTEUS, Mr Thomas Henry",1878,1912,33,Male,Victualling Crew,,,,Southampton,Butcher,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-porteus.html
+"BISHOP, Mr Walter Alexander",1878,1912,34,Male,Victualling Crew,,,,Belfast,1st Class Bedroom Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/walter-alexander-bishop.html
+"WILLIS, Mr William",1853,1912,59,Male,Victualling Crew,,,,Southampton,3rd Class Packer Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-willis.html
+"GOSLING, Mr Bertram James",1890,1912,22,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/bertram-james-gosling.html
+"SHANNON, Mr David McKay",1879,1961,33,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/david-shannon.html
+"LOCKE, Mr Albert George",1879,1912,33,Male,Victualling Crew Substitute Crew,,,,Southampton,Scullion,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/a-locke.html
+"CORBEN, Mr Ernest Theodore",1885,1912,27,Male,Victualling Crew,,,,Southampton,Assistant Printer Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/ernest-theodore-corben.html
+"DASHWOOD, Mr William George",1894,1912,18,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,83,English,https://www.encyclopedia-titanica.org/titanic-victim/william-george-dashwood.html
+"WEBB, Mr Brook Holden",1862,1912,50,Male,Victualling Crew,,,,Belfast,Smoke Room Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/brooke-holden-webb.html
+"BROWN, Mr Joseph",1882,1912,30,Male,Engineering Crew Substitute Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/joseph-james-brown.html
+"BARKER, Mr Albert Vale",1893,1912,19,Male,Victualling Crew,,,,Southampton,Baker,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/albert-vale-barker.html
+"THORN, Mr Harry",1886,1912,25,Male,Victualling Crew,,,,Southampton,Assistant Ship's Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/harry-johnson-thorne.html
+"KNOWLES, Mr Thomas",1867,1951,44,Male,Engineering Crew,,,,Southampton,Firemens' Messman,SAVED,C,,English,https://www.encyclopedia-titanica.org/titanic-survivor/thomas-knowles.html
+"DAVIES, Mr Robert J.",1886,1912,26,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,191,Welsh,https://www.encyclopedia-titanica.org/titanic-victim/robert-davies.html
+"DODDS, Mr Henry Watson",1885,1912,26,Male,Engineering Crew Substitute Crew,,,,Southampton,Junior Assistant 4th Engineer,LOST,,,Guyanese,https://www.encyclopedia-titanica.org/titanic-victim/henry-watson-dodds.html
+"FARQUHARSON, Mr William Edward",1873,1912,39,Male,Engineering Crew,,,,Belfast,Senior 2nd. Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-edward-farquharson.html
+"HARDING, Mr Alfred John",1891,1912,21,Male,Victualling Crew,,,,Southampton,Assistant Pantry Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/a-harding.html
+"MCQUILLAN, Mr William",1886,1912,26,Male,Engineering Crew,,,,Belfast,Fireman,LOST,,183,Irish,https://www.encyclopedia-titanica.org/titanic-victim/william-mcquillan.html
+"CULLEN, Mr John",1869,,43,Male,Engineering Crew,,,,Belfast,Leading Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-cullen.html
+"FARLEY, Mr John",1881,,31,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-farley.html
+"JENSEN, Mr Charles Valdemar",1887,1912,24,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,Danish,https://www.encyclopedia-titanica.org/titanic-victim/charles-valdemar-jensen.html
+"CHRISTMAS, Mr Herbert Harry",1878,1912,34,Male,Victualling Crew,,,,Southampton,Assistant Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/herbert-harry-christmas.html
+"PERRITON, Mr Hubert Prouse",1880,1912,32,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/hubert-prouse-perriton.html
+"HOARE, Mr Leonard James",1893,1912,18,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/leonard-james-hoare.html
+"SYMONDS, Mr John Crane",1867,1912,44,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/j-symonds.html
+"FLEET, Mr Frederick",1887,1965,24,Male,Deck Crew,,,,Belfast,Lookout,SAVED,6,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frederick-fleet.html
+"GORMAN, Mr David",1880,1938,32,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/david-gorman.html
+"KENNELL, Mr Charles",1882,1912,30,Male,Victualling Crew,,,,Southampton,Hebrew Cook,LOST,,,South African,https://www.encyclopedia-titanica.org/titanic-victim/charles-kennell.html
+"RIMMER, Mr Gilbert",1883,1912,29,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/gilbert-rimmer.html
+"ANDREWS, Mr Archibald",1872,,40,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/archibald-andrews.html
+"BAGGOTT, Mr Allen Marden",1884,1921,28,Male,Victualling Crew,,,,Southampton,Saloon Steward,SAVED,9,,English,https://www.encyclopedia-titanica.org/titanic-survivor/allen-marden-baggott.html
+"KIERAN, Mr Edgar Michael",1878,1912,34,Male,Victualling Crew,,,,Southampton,Storekeeper,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/michael-kieran.html
+"DYER, Mr Henry Ryland",1887,1912,24,Male,Engineering Crew,,,,Belfast,Senior Assistant 4th. Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-ryland-dyer.html
+"BEDFORD, Mr William Barnett",1880,1912,31,Male,Victualling Crew,,,,Southampton,Assistant Roast Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-barnet-bedford.html
+"LONG, Mr Frank",1880,1912,31,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/f-long.html
+"BARKER, Mr Stokes",1886,,26,Male,Engineering Crew,,,,Belfast,Leading Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/stokes-barker.html
+"STEBBINGS, Mr Sydney Frederick",1876,1912,36,Male,Victualling Crew,,,,Belfast,Chief Boots Steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/sydney-frederick-stebbings.html
+"PLATT, Mr Wilfred George",1894,1912,17,Male,Victualling Crew,,,,Southampton,Scullion,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-platt.html
+"HERD, Mr Hugh",1877,,35,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Scottish,https://www.encyclopedia-titanica.org/titanic-biography/hugh-herd.html
+"HAGGAN, Mr John",1877,1952,35,Male,Engineering Crew,,,,Belfast,Fireman,SAVED,3,,Irish,https://www.encyclopedia-titanica.org/titanic-survivor/john-haggan.html
+"TIETZ, Sig. Carlo/Karl",1885,1912,27,Male,Restaurant Staff,,,,Southampton,Kitchen Porter,LOST,,,German,https://www.encyclopedia-titanica.org/titanic-victim/carlo-karl-tietz.html
+"BURROUGHS, Mr Arthur Peckham",1877,1912,34,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-burroughs.html
+"VINE, Mr Herbert Thomas Gordon",1894,1912,17,Male,Restaurant Staff,,,,Southampton,Assistant Restaurant Controller,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/herbert-vine.html
+"BREWER, Mr Harry",1882,1912,30,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-harry-brewer.html
+"HARRIS, Mr Charles William",1893,1912,19,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-william-harris.html
+"VöGELIN-DUBACH, Sig. Johannes",1876,1912,35,Male,Restaurant Staff,,,,Southampton,Coffee Man,LOST,,,Swiss,https://www.encyclopedia-titanica.org/titanic-victim/johannes-voegelin-dubach.html
+"MELLOR, Mr Arthur",1878,1912,34,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,,https://www.encyclopedia-titanica.org/titanic-victim/arthur-mellor.html
+"BARLOW, Mr Charles Henry",1881,1912,30,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-barlow.html
+"PRIDEAUX, Mr John Arthur (Jack)",1888,1912,23,Male,Victualling Crew,,,,Southampton,3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-jack-arthur-prideaux.html
+"EVANS, Mr Alfred Frank",1887,1964,25,Male,Deck Crew,,,,Southampton,Lookout,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/alfred-frank-evans.html
+"POGGI, Sig. Emilio",1883,1912,28,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,301,Italian,https://www.encyclopedia-titanica.org/titanic-victim/emilio-poggi.html
+"ROWE, Mr George Thomas",1881,1974,31,Male,Deck Crew,,,,Belfast,Quartermaster,SAVED,C,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-thomas-rowe.html
+"MCBARTY, Mr Thomas",,,,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-mcbarty.html
+"SESIA, Sig. Giacomo",1888,1912,24,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/giacomo-sesia.html
+"CASEY, Mr Thomas",1867,1912,44,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/t-casey.html
+"MCMICKEN, Mr Benjamin Tucker",1891,1912,21,Male,Victualling Crew,,,,Belfast,Second Pantry Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/benjamin-tucker-mcmicken.html
+"RANGER, Mr Thomas",1882,1964,29,Male,Engineering Crew,,,,Southampton,Greaser,SAVED,4,,English,https://www.encyclopedia-titanica.org/titanic-survivor/thomas-ranger.html
+"BENNETT, Mr George Alfred",1881,1912,30,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-alfred-bennett.html
+"CARR, Mr Richard Stephen",1884,1912,27,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/richard-stephen-carr.html
+"RICE, Mr Charles John",1880,1949,32,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,10,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-rice.html
+"HARMES, Mr Robert",1881,1958,30,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/robert-harmes.html
+"HUNT, Mr Albert Sylvanus",1889,1949,23,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,C,,English,https://www.encyclopedia-titanica.org/titanic-survivor/albert-hunt.html
+"HINTON, Mr Stephen William",1881,1912,30,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,85,English,https://www.encyclopedia-titanica.org/titanic-victim/stephen-william-hinton.html
+"FIORAVANTE, Sig. Giuseppe Bertoldo",1888,1912,23,Male,Restaurant Staff,,,,Southampton,Assistant Scullion,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/giuseppe-bertoldo-fioravante.html
+"VEAR, Mr William",1878,1912,34,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,59,English,https://www.encyclopedia-titanica.org/titanic-victim/william-vear.html
+"SLOAN, Mr Thomas",,,,Male,Deck Crew,,,,Belfast,Boatswain,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-sloan.html
+"BAZZI, Sig. Narciso",1878,1912,33,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Swiss,https://www.encyclopedia-titanica.org/titanic-victim/narciso-bazzi.html
+"PATTON, Mr Matthew",1886,1948,26,Male,Engineering Crew,,,,Belfast,Trimmer,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/matthew-patton.html
+"BAINES, Mr Richard",1854,1912,58,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/richard-baines.html
+"SHEATH, Mr Frederick",1892,1934,20,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,1,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frederick-sheath.html
+"WARD, Mr Percy Thomas",1872,1912,40,Male,Victualling Crew,,,,Belfast,Bedroom Steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/percy-thomas-ward.html
+"GUMERY, Mr George",1887,1912,24,Male,Engineering Crew,,,,Southampton,Mess Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-gumery.html
+"GEDDES, Mr Richard Charles",1880,1912,32,Male,Victualling Crew,,,,Southampton,Bed Room Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/richard-charles-geddes.html
+"KILFORD, Mr P.",1883,,29,Male,Victualling Crew Left Ship Sick,,,,Southampton,First Class Steward,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/kilford.html
+"ELLIOTT, Mr Everett Edward",1888,1912,23,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,317,English,https://www.encyclopedia-titanica.org/titanic-victim/everett-edward-elliott.html
+"CROSS, Mr William Alfred",1868,1912,44,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-cross.html
+"PERACCHIO, Sig. Alberto",1892,1912,20,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/alberto-peracchio.html
+"HARRIS, Mr Amos",1888,1912,24,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/amos-harris.html
+"MCERLEAN, Mr John",1860,1915,51,Male,Engineering Crew,,,,Belfast,Greaser,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-mcerlean.html
+"SIMPSON, Dr John Edward",1875,1912,37,Male,Deck Crew,,,,Southampton,Assistant Surgeon,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/john-edward-simpson.html
+"HYLAND, Mr Leo James",1893,1974,19,Male,Victualling Crew,,,,Southampton,Steward (3rd Class),SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/leo-james-hyland.html
+"CALDERWOOD, Mr Hugh",1879,1912,33,Male,Engineering Crew,,,,Belfast,Trimmer,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/hugh-calderwood.html
+"PITFIELD, Mr William James",1886,1912,25,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-james-pitfield.html
+"MüLLER, Mr Ludwig",1875,1912,37,Male,Victualling Crew,,,,Southampton,Interpreter Steward (3rd Class),LOST,,,German,https://www.encyclopedia-titanica.org/titanic-victim/l-muller.html
+"BOYD, Mr John",1875,1912,37,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-boyd.html
+"MCKAY, Mr Charles Donald",1882,1956,30,Male,Victualling Crew,,,,Belfast,Saloon Steward,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-donald-mckay.html
+"DOLBY, Mr Joseph",1873,1912,38,Male,Victualling Crew,,,,Belfast,Reception Steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/joseph-dolby.html
+"SAUNDERS, Mr Walter Ernest",1886,1912,25,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,184,English,https://www.encyclopedia-titanica.org/titanic-victim/walter-ernest-saunders.html
+"JONES, Mr Victor Reginald",1891,1912,20,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/reginald-jones.html
+"COUTIN, Mr Auguste Louis",1884,1912,28,Male,Restaurant Staff,,,,Southampton,Entrée Cook,LOST,,,French,https://www.encyclopedia-titanica.org/titanic-victim/auguste-louis-coutin.html
+"GIBSON, Mr Thomas",1892,,20,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-gibson.html
+"VALVASSORI, Sig. Ettore Luigi",1876,1912,35,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,"Italian, English",https://www.encyclopedia-titanica.org/titanic-victim/ettore-luigi-valvassori.html
+"MCGROGAN, Mr John",1861,1933,51,Male,Engineering Crew,,,,Belfast,Greaser,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-mcgrogan.html
+"MCILROY, Mr Robert David",1887,,24,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/robert-mcilroy.html
+"HEINEN, Mr Joseph Dominichus",1882,1912,30,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,,"German, English",https://www.encyclopedia-titanica.org/titanic-victim/joseph-heinen.html
+"WEBBER, Mr Francis Albert",1881,1912,30,Male,Engineering Crew,,,,Southampton,Leading Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/francis-albert-webber.html
+"MCMULLAN, Mr William",1872,,40,Male,Engineering Crew,,,,Belfast,Greaser,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-mcmullan.html
+"MATHERS, Mr John",1887,1945,24,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-mathers.html
+"WHITE, Mr Alfred",1880,1922,32,Male,Engineering Crew,,,,Southampton,Greaser,SAVED,4,,English,https://www.encyclopedia-titanica.org/titanic-survivor/alfred-white.html
+"HAWKESWORTH, Mr James",1860,1912,52,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-hawkesworth.html
+"SHEA, Mr Thomas",1880,1912,32,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-shea.html
+"BOYES, Mr John Henry",1875,1912,36,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-henry-boyes.html
+"CURTIS, Mr Arthur",1885,1912,26,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-curtis.html
+"FAULKNER, Mr William Stephen",1875,1949,37,Male,Victualling Crew,,,,Belfast,1st Class Bedroom Steward,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-stephen-faulkner.html
+"HOPGOOD, Mr Roland John C.",1882,1912,29,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/roland-hopgood.html
+"MCCARTNEY, Mr John",1863,,49,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-mccartney.html
+"BOUGHTON, Mr Bernard John",1887,1912,24,Male,Victualling Crew,,,,Southampton,First class saloon steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/b-boughton.html
+"PRYCE, Mr Charles William",1889,1912,22,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-william-pryce.html
+"HICHENS, Mr Robert",1882,1940,29,Male,Deck Crew,,,,Southampton,Quartermaster,SAVED,6,,English,https://www.encyclopedia-titanica.org/titanic-survivor/robert-hichens.html
+"SMITH, Captain Edward John",1850,1912,62,Male,Deck Crew Titanic Officers,,,,Southampton,Master,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-john-smith.html
+"RYAN, Mr Thomas",1884,1912,28,Male,Victualling Crew,,,,Southampton,Steward,LOST,,,Channel Islander,https://www.encyclopedia-titanica.org/titanic-victim/tom-ryan.html
+"BOWKER, Miss Ruth Harwood",1880,1956,31,Female,Restaurant Staff,,,,Southampton,Cashier,SAVED,6,,English,https://www.encyclopedia-titanica.org/titanic-survivor/ruth-bowker.html
+"JOSEPH, Mr Kirkpatrick",1875,,37,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/kirkpatrick-joseph.html
+"CASTLEMAN, Mr Edward",1874,1912,37,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-castleman.html
+"BROOKMAN, Mr John Cress",1884,1912,28,Male,Victualling Crew,,,,Southampton,3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-brookman.html
+"SWAN, Mr William",1864,1912,48,Male,Victualling Crew,,,,Belfast,1st Class Bedroom Steward,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/w-swan.html
+"ROUS, Mr Arthur John",1886,1912,26,Male,Engineering Crew,,,,Belfast,Plumber,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-rous.html
+"HOWELL, Mr Arthur Albert",1880,1912,31,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,319,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-albert-howell.html
+"PRIEST, Mr Arthur John",1887,1937,24,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/arthur-john-priest.html
+"MCLAREN, Mrs Hypatia",1869,1959,42,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,5,,English,https://www.encyclopedia-titanica.org/titanic-survivor/mclaren.html
+"TAYLOR, Mr Leonard",1893,1912,19,Male,Victualling Crew,,,,Southampton,Turkish Bath Attendant,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/leonard-taylor.html
+"VEAR, Mr Henry",1879,1912,33,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/h-vear.html
+"HOLLOWAY, Mr Sidney",1888,1912,24,Male,Victualling Crew,,,,Southampton,Assistant clothes presser steward,LOST,,273,English,https://www.encyclopedia-titanica.org/titanic-victim/sidney-holloway.html
+"DUNLOP, Mr Joseph",1865,,47,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/joseph-dunlop.html
+"MOSS, Mr William",1876,1912,35,Male,Victualling Crew,,,,Belfast,1st Class Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-moss.html
+"BLAIR, Mr David",1874,1955,37,Male,Deck Crew Titanic Officers,,,,Belfast,Second Officer,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/david-blair.html
+"CRUMPLIN, Mr Charles George Chandler",1877,1912,35,Male,Victualling Crew,,,,Belfast,Bed Room Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-crumplin.html
+"FORD, Mr H.",1890,1912,22,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/h-ford.html
+"BLADES, Mr Frederick Charles",1895,1912,17,Male,Victualling Crew,,,,Southampton,Lift Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-allen.html
+"SAVAGE, Mr Charles James",1888,1957,23,Male,Victualling Crew,,,,Southampton,Steward,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-savage.html
+"THALER, Mr Montague Donald",1894,1912,17,Male,Victualling Crew,,,,Southampton,Steward (3rd Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/montague-donald-thaler.html
+"THOMAS, Mr William",1861,,51,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-thomas.html
+"TURNER, Mr Leopold Olerenshaw",1884,1912,28,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,23,English,https://www.encyclopedia-titanica.org/titanic-victim/l-turner.html
+"BLAKE, Mr Thomas Henry",1875,1912,36,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-blake.html
+"ROBERTS, Mr Frank John",1875,1912,36,Male,Victualling Crew,,,,Belfast,Third Butcher,LOST,,231,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-frank-roberts.html
+"HUNT, Mr Tom",1884,1912,27,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/tom-hunt.html
+"MCGOUGH, Mr George Francis 'Paddy'",1875,1940,36,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,,,Irish,https://www.encyclopedia-titanica.org/titanic-survivor/george-francis-mcgough.html
+"HARRIS, Mr Edward Matthew",1895,1912,17,Male,Victualling Crew,,,,Southampton,Assistant Pantryman Steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/pantry-steward-edward-harris.html
+"OLLIVER, Mr Alfred John",1884,1934,27,Male,Deck Crew,,,,Belfast,Quartermaster,SAVED,5,,Channel Islander,https://www.encyclopedia-titanica.org/titanic-survivor/alfred-olliver.html
+"BOTT, Mr William Thomas",1866,1912,46,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-bott.html
+"SWARBRICK, Mr William John",1888,1968,23,Male,Engineering Crew,,,,Belfast,Fireman,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/william-swarbrick.html
+"PENNEY, Mr Alfred",1884,,28,Male,Engineering Crew Deserted,,,,Southampton,Trimmer,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/penney.html
+"BOLHUIS, Mr Hendrik",1884,1912,27,Male,Restaurant Staff,,,,Southampton,Larder Cook,LOST,,,Dutch,https://www.encyclopedia-titanica.org/titanic-victim/hendrik-bolhuis.html
+"BROWN, Mr Edward",1878,1926,34,Male,Victualling Crew,,,,Belfast,Saloon Steward,SAVED,,,Welsh,https://www.encyclopedia-titanica.org/titanic-survivor/edward-brown.html
+"LAVINGTON, Miss Elizabeth",1872,1949,40,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/bessie-lavington.html
+"KIRKHAM, Mr James",1868,1912,43,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-kirkham.html
+"ABRAMS, Mr William Thomas",1878,1912,34,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-thomas-abrams.html
+"LOVELL, Mr John",1875,1912,37,Male,Victualling Crew,,,,Southampton,Grill Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-lovell.html
+"CROSBIE, Mr John Borthwick",1867,1912,45,Male,Victualling Crew,,,,Southampton,Turkish Bath Attendant,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-borthwick-crosbie.html
+"CARTER, Mr F.",1885,,27,Male,Engineering Crew Failed to Join Ship,,,,Southampton,Trimmer,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/f-carter.html
+"HUMPHREYS, Mr Humphrey",1880,1912,31,Male,Victualling Crew,,,,Southampton,"Assistant Saloon Steward, 2nd Class",LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/humphrey-humphreys.html
+"SMITH, Miss Kate Elizabeth",1867,,44,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/kate-elizabeth-smith.html
+"BAXTER, Mr Harry Ross",1858,1912,53,Male,Victualling Crew,,,,Southampton,3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/harry-ross-baxter.html
+"WITTER, Mr James William Cheetham",1880,1961,31,Male,Victualling Crew,,,,Southampton,Smoke Room Steward (2nd Class),SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/james-william-cheetham-witter.html
+"WHINNERY, Mr Hugh",1869,1942,42,Male,Engineering Crew,,,,Belfast,Leading Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/hugh-whinnery.html
+"ROGERS, Mr Michael Joseph",1885,1912,26,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/michael-rogers.html
+"BAIN, Mr David",1859,,52,Male,Engineering Crew,,,,Belfast,Fireman,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/david-bain.html
+"TAYLOR, Mr George",1888,1931,23,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,1,,English,https://www.encyclopedia-titanica.org/titanic-survivor/james-taylor.html
+"LYDIATT, Mr Charles",1867,1912,45,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-lydiatt.html
+"SHIERS, Mr Alfred Charles",1886,1946,25,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/alfred-charles-shiers.html
+"DEBREUCQ, Mr Maurice Emile Victor",1894,1912,18,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,244,French,https://www.encyclopedia-titanica.org/titanic-victim/maurice-emile-victor-debreucq.html
+"HARRIS, Mr Joseph",1880,1950,32,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/joseph-harris.html
+"DAVIES, Mr Thomas",1879,1912,33,Male,Engineering Crew,,,,Southampton,Leading Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-davies.html
+"MOORE, Mr Alfred Ernest",1873,1912,38,Male,Victualling Crew,,,,Southampton,"Saloon Steward, 2nd Class",LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/alfred-ernest-moore.html
+"MCGILL, Mr Thomas",1883,,29,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-mcgill.html
+"O'CONNOR, Mr John",1882,1933,29,Male,Engineering Crew Substitute Crew,,,,Southampton,Trimmer,SAVED,B,,English,https://www.encyclopedia-titanica.org/titanic-survivor/john-oconnor.html
+"STANBROOK, Mr  Augustus George",1881,1912,31,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,316,English,https://www.encyclopedia-titanica.org/titanic-victim/augustus-stanbrook.html
+"MANTLE, Mr Roland Frederick",1871,1912,40,Male,Victualling Crew,,,,Southampton,3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/roland-frederick-mantle.html
+"KERR, Mr Thomas Russell",1885,1912,26,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/thomas-kerr.html
+"TAGGART, Mr William",1887,,24,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-taggart.html
+"EDWARDS, Mr Charles Essex",1862,1912,49,Male,Victualling Crew,,,,Southampton,Assistant Pantryman Steward (1st Class),LOST,,,Welsh,https://www.encyclopedia-titanica.org/titanic-victim/charles-essex-edwards.html
+"MAXWELL, Mr William",1873,,39,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-maxwell.html
+"MATTMANN, Sig. Adolf",1891,1912,20,Male,Restaurant Staff,,,,Southampton,Ice Man,LOST,,,Swiss,https://www.encyclopedia-titanica.org/titanic-victim/adolf-mattmann.html
+"NEWMAN, Mr Charles Thomas",1879,1912,32,Male,Engineering Crew,,,,Southampton,Assistant Storekeeper,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-thomas-newman.html
+"MASON, Mr Frank Archibald Robert",1880,1953,32,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frank-archibald-robert-mason.html
+"TOSHACK, Mr James Adamson",1881,1912,30,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/james-adamson-toshack.html
+"LINDSAY, Mr William Charles",1881,1960,30,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,B,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-charles-lindsay.html
+"MURDOCK, Mr William John",1874,1941,37,Male,Engineering Crew,,,,Belfast,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-biography/william-murdock.html
+"COUCH, Mr Joseph Henry",1862,1912,49,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/joseph-henry-couch.html
+"SLIGHT, Mr Harry John",1878,1912,33,Male,Victualling Crew,,,,Southampton,3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/harry-john-slight.html
+"HEDDLES, Mr William",1867,1940,44,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-hedley.html
+"ROBERTS, Mr Hugh H.",1871,1912,41,Male,Victualling Crew,,,,Belfast,Bed Room Steward,LOST,,93,Welsh,https://www.encyclopedia-titanica.org/titanic-victim/hugh-roberts.html
+"HUMPHREYS, Mr Sidney",1859,1919,52,Male,Deck Crew,,,,Southampton,Quartermaster,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/sidney-humphreys.html
+"TAYLOR, Mr William Henry",1883,1914,28,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-henry-taylor.html
+"BEEDEM, Mr George Arthur",1877,1912,35,Male,Victualling Crew,,,,Southampton,2nd Class Bedroom Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-arthur-beedem.html
+"KINSELLA, Mr Louis",1881,1912,30,Male,Engineering Crew Substitute Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/louis-kinsella.html
+"BOGIE, Mr Norman Leslie",1853,1912,59,Male,Victualling Crew,,,,Southampton,2nd Class Bedroom Steward,LOST,,274,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/norman-leslie-bogie.html
+"GIBBONS, Mr Jacob William",1875,1965,36,Male,Victualling Crew,,,,Southampton,Second Class Steward,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/jacob-william-gibbons.html
+"VIGOTT, Mr Philip Francis",1879,1941,32,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,13,,Channel Islander,https://www.encyclopedia-titanica.org/titanic-survivor/philip-francis-vigott.html
+"HOPKINS, Mr Robert John",1868,1943,43,Male,Deck Crew,,,,Belfast,Able Seaman,SAVED,13,,Irish,https://www.encyclopedia-titanica.org/titanic-survivor/robert-john-hopkins.html
+"MCDONALD, Mr Daniel",1884,1915,28,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/daniel-mcdonald.html
+"NEILL, Mr Thomas",1870,,42,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-neill.html
+"DECKER, Mr Charles",1865,1955,47,Male,Engineering Crew,,,,Belfast,Fireman,,,,"German, Irish",https://www.encyclopedia-titanica.org/titanic-biography/charles-decker.html
+"DESLANDES, Mr Percival Stainer",1874,1912,38,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,212,English,https://www.encyclopedia-titanica.org/titanic-victim/percival-stainer-deslandes.html
+"MCALLISTER, Mr Daniel",1883,1922,29,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/daniel-mcallistor.html
+"PRENTICE, Mr Frank Winnold",1889,1982,23,Male,Victualling Crew,,,,Southampton,Storekeeper,SAVED,4,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frank-winnold-prentice.html
+"THOMAS, Mr Albert Charles",1889,1973,23,Male,Victualling Crew,,,,Southampton,Saloon Steward,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/albert-charles-thomas.html
+"HEAD, Mr Alfred",1888,1912,24,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/a-head.html
+"CLARK, Mr William",1872,,40,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,Irish,https://www.encyclopedia-titanica.org/titanic-survivor/william-clark.html
+"BEUX, Mr David",1886,1912,25,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/david-beux.html
+"YOUNG, Mr Francis James",1879,1912,32,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/francis-james-young.html
+"LONGMUIR, Mr John Dickson",1892,1912,19,Male,Victualling Crew,,,,Southampton,Assistant Pantry Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-dickson-longmuir.html
+"REID, Mr James",1876,,36,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-reid.html
+"KERNAGHAN, Mr David",1875,1913,36,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/david-kernaghan.html
+"CLENCH, Mr George James",1881,1912,31,Male,Deck Crew,,,,Southampton,Able Seaman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-clench.html
+"EVANS, Mr Frank Oliver",1884,1952,27,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,10,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frank-oliver-evans.html
+"HISCOCK, Mr Sydney George",1887,1912,25,Male,Victualling Crew,,,,Southampton,Plate Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/s-hiscock.html
+"FLETCHER, Mr Robert",1872,1916,39,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/robert-fletcher.html
+"WITT, Mr Henry Dennis",1874,1912,37,Male,Engineering Crew Substitute Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-dennis-witt.html
+"CRISP, Mr Albert Hector",1872,1912,39,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/albert-hector-crisp.html
+"WALSH,  Kate",1869,1912,42,Female,Victualling Crew,,,,Southampton,Stewardess,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/kate-walsh.html
+"PUGH, Mr Alfred",1891,1962,20,Male,Victualling Crew,,,,Southampton,3rd Class Steward,SAVED,14,,English,https://www.encyclopedia-titanica.org/titanic-survivor/alfred-pugh.html
+"MURPHY, Mr Thomas",1877,,35,Male,Engineering Crew,,,,Belfast,Leading Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-murphy.html
+"READ, Mr Joseph",1891,1912,20,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/j-read.html
+"COE, Mr Harry",1890,1912,21,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/harry-coe.html
+"TOMS, Mr Fred",1882,1937,29,Male,Victualling Crew,,,,Belfast,Saloon Steward,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/fred-toms.html
+"BURGESS, Mr Charles",1893,1960,18,Male,Victualling Crew,,,,Southampton,Extra 3rd. Baker,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-burgess.html
+"LATIMER, Mr Andrew",1857,1912,55,Male,Victualling Crew,,,,Belfast,Chief Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/andrew-latimer.html
+"PROCTOR, Mr Charles",1866,1912,45,Male,Victualling Crew,,,,Belfast,Chef,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-proctor.html
+"PERKIS, Mr Walter John",1874,1954,37,Male,Deck Crew,,,,Belfast,Quartermaster,SAVED,4,,English,https://www.encyclopedia-titanica.org/titanic-survivor/walter-john-perkis.html
+"SNOOK, Mr William Henry",1886,1912,25,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-snooks.html
+"TAYLOR, Mr J.",1870,1912,42,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/j-taylor.html
+"MORGAN, Mr Arthur Herbert",1885,1912,27,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-herbert-morgan.html
+"MAY, Mr Arthur William",1852,1912,59,Male,Engineering Crew,,,,Southampton,Fireman Messman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-william-may.html
+"CORCORAN, Mr Dennis",1879,1912,33,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/denny-corcoran.html
+"WALLACE, Mr Robert",1886,,25,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/robert-wallace.html
+"TOZER, Mr James",1880,1912,32,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/james-tozer.html
+"COY, Mr Francis Ernest George",1885,1912,27,Male,Engineering Crew,,,,Belfast,Junior Assistant 3rd. Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/francis-ernest-george-coy.html
+"MASON, Mr J.",1873,1912,39,Male,Engineering Crew,,,,Southampton,Leading Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/j-mason.html
+"STEVENSON, Mr John",1863,,49,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-stevenson.html
+"WHITE, Mr William George",1888,1927,23,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,15,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-george-white.html
+"BUTTERWORTH, Mr John",1889,1912,23,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,116,English,https://www.encyclopedia-titanica.org/titanic-victim/john-butterworth.html
+"MILLAR, Mr Robert",1885,1912,26,Male,Engineering Crew,,,,Belfast,Extra 5th Engineer,LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/robert-millar.html
+"PEARCE, Mr Alfred Ernest",1887,1912,24,Male,Victualling Crew,,,,Southampton,Steward,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/alfred-emest-pearce.html
+"RICALDONE, Sig. Rinaldo Renato",1889,1912,22,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/rinaldo-renato-ricaldone.html
+"BARKER, Mr Reginald Lomond",1870,1912,42,Male,Victualling Crew,,,,Belfast,"Second Purser, 1st Class",LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/reginald-lomond-barker.html
+"PELHAM, Mr George",1873,1939,39,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,16,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-pelham.html
+"PUGH, Mr Arthur Percy",1881,1912,31,Male,Engineering Crew,,,,Southampton,Leading Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/percy-pugh.html
+"MATHIAS, Mr Montague Vincent",1883,1912,29,Male,Deck Crew,,,,Southampton,Mess Steward,LOST,,,Welsh,https://www.encyclopedia-titanica.org/titanic-victim/montague-vincent-mathias.html
+"SIEBERT, Mr Sidney Conrad",1882,1912,29,Male,Victualling Crew,,,,Belfast,Bed Room Steward,LOST,4,,English,https://www.encyclopedia-titanica.org/titanic-victim/sidney-conrad-siebert.html
+"MARSDEN, Miss Evelyn",1883,1938,28,Female,Victualling Crew,,,,Southampton,Stewardess,SAVED,16,,Australian,https://www.encyclopedia-titanica.org/titanic-survivor/evelyn-marsden.html
+"POOK, Mr Percy Robert",1876,1912,36,Male,Victualling Crew,,,,Southampton,Assistant pantry steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/p-pook.html
+"BARKER, Mr Ernest Thomas",1871,1912,40,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,159,English,https://www.encyclopedia-titanica.org/titanic-victim/ernest-barker.html
+"VAN DER BRUGGE, Mr Wessel Adrianus",1873,1912,38,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Dutch,https://www.encyclopedia-titanica.org/titanic-victim/wessel-adrianus-van-der-brugge.html
+"BARROWS, Mr Edward William Peter",1879,1912,32,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-barrows.html
+"CRAWFORD, Mr Alfred George",1869,1938,43,Male,Victualling Crew,,,,Belfast,Bed Room Steward,SAVED,8,,English,https://www.encyclopedia-titanica.org/titanic-survivor/alfred-crawford.html
+"GUY, Mr Elgar John",1882,1922,29,Male,Victualling Crew,,,,Southampton,Boots,SAVED,5,,English,https://www.encyclopedia-titanica.org/titanic-survivor/elgar-john-guy.html
+"CATON, Miss Annie",1879,1947,33,Female,Victualling Crew,,,,Southampton,Turkish Bath Stewardess,SAVED,11,,English,https://www.encyclopedia-titanica.org/titanic-survivor/annie-caton.html
+"THOMPSON, Mr Herbert Henry",1887,1912,25,Male,Victualling Crew,,,,Belfast,2nd (Assistant) Storekeeper,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/herbert-henry-thompson.html
+"DUFFY, Mr William Luke",1875,1912,36,Male,Engineering Crew,,,,Belfast,Writer / Engineer's Clerk,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/william-luke-duffy.html
+"MECHAN, Mr William",1874,,38,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-mechan.html
+"MCILROY, Mr James",1866,,45,Male,Engineering Crew,,,,Belfast,Greaser,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-mcilroy.html
+"PERRY, Mr Edgar Lionel",1892,1940,19,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/edgar-lionel-perry.html
+"LLOYD, Mr William",1883,1912,29,Male,Engineering Crew Substitute Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-lloyd.html
+"JEWELL, Mr Archie",1888,1917,23,Male,Deck Crew,,,,Belfast,Lookout,SAVED,7,,English,https://www.encyclopedia-titanica.org/titanic-survivor/archie-jewell.html
+"MCANDREWS, Mr William",1889,1912,23,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,,https://www.encyclopedia-titanica.org/titanic-victim/william-mcandrews.html
+"WELSH, Mr Patrick",1862,,50,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/patrick-welsh.html
+"LOWE, Mr Harold Godfrey",1882,1944,29,Male,Deck Crew Titanic Officers,,,,Belfast,5th. Officer,SAVED,14,,Welsh,https://www.encyclopedia-titanica.org/titanic-survivor/harold-godfrey-lowe.html
+"FERRIS, Mr William",1873,1912,39,Male,Engineering Crew,,,,Southampton,Leading Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-ferris.html
+"HOLMAN, Mr Harry",1883,1912,29,Male,Deck Crew,,,,Belfast,Able Seaman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/harry-holman.html
+"EDE, Mr George Bulkeley",1889,1912,23,Male,Victualling Crew,,,,Southampton,3rd Class Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-ede.html
+"ELLISON, Mr Joseph",1883,1945,29,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/joseph-ellison.html
+"LIGHTOLLER, Mr Charles Herbert",1874,1952,38,Male,Deck Crew Titanic Officers,,,,Belfast,2nd. Officer,SAVED,B,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-herbert-lightoller.html
+"GOLLOP, Mr Percival Salisbury",1882,1912,30,Male,Victualling Crew,,,,Southampton,Assistant Passage Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/f-gollop.html
+"MCILROY, Mr William",1872,,40,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-mcilroy.html
+"MCMILLEN, Mr Thomas",1857,,55,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-mcmillen.html
+"REVELL, Mr William James Francis",1880,1912,31,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-revell.html
+"KNIGHT, Mr George",1865,1945,46,Male,Victualling Crew,,,,Southampton,Saloon Steward,SAVED,13,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-knight.html
+"KING, Mr Alfred John Moffett",1893,1912,18,Male,Victualling Crew,,,,Southampton,Lift Steward,LOST,,238,English,https://www.encyclopedia-titanica.org/titanic-victim/alfred-king.html
+"BARTLEY, Mr Robert",1880,,32,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/robert-bartley.html
+"KITCHING, Mr Arthur Alfred",1881,1912,31,Male,Victualling Crew,,,,Southampton,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-alfred-kitching.html
+"LAKE, Mr William",1866,1912,46,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-lake.html
+"TINSLEY, Mr Thomas",1864,,47,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-tinsley.html
+"MCGIVERN, Mr Thomas",1869,,43,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/thomas-mcgivern.html
+"KELLY, Mr William Patrick",1888,1912,23,Male,Engineering Crew,,,,Belfast,Assistant Electrician,LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/william-kelly.html
+"MASSEY, Mr James",1874,,37,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-massey.html
+"ALLEN, Mr Henry",1882,1912,30,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,145,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-allen.html
+"CRAIG, Mr John",1883,,29,Male,Engineering Crew,,,,Belfast,Fireman,,,,Scottish,https://www.encyclopedia-titanica.org/titanic-biography/john-craig.html
+"WAREHAM, Mr Robert Arthur",1874,1912,37,Male,Victualling Crew,,,,Belfast,Bed Room Steward,LOST,,246,English,https://www.encyclopedia-titanica.org/titanic-victim/robert-arthur-wareham.html
+"STEWART, Mr John",1883,1946,28,Male,Victualling Crew,,,,Belfast,Verandah Steward,SAVED,15,,Scottish,https://www.encyclopedia-titanica.org/titanic-survivor/john-stewart.html
+"LOUGHRAN, Mr Joseph",1883,1950,29,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/joseph-loughran.html
+"CREESE, Mr Henry Philip",1867,1912,45,Male,Engineering Crew,,,,Belfast,Deck Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/henry-philip-creese.html
+"BAXTER, Mr Thomas Ferguson",1856,1912,55,Male,Victualling Crew,,,,Southampton,Linen Steward (1st class),LOST,,235,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/thomas-ferguson-baxter.html
+"SAUNDERS, Mr F.",1890,1912,22,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/f-saunders.html
+"ENNES, Mr William",1884,,28,Male,Engineering Crew,,,,Belfast,Leading Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-ennes.html
+"BURROWS, Mr W.",1883,,29,Male,Engineering Crew Left with Consent,,,,Southampton,Fireman,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/burrows.html
+"REEVES, Mr Frederick Simms",1878,1912,34,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,280,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-simms-reeves.html
+"VILLVARLANGE, Mr Pierre Léon Gabriel",1893,1912,19,Male,Restaurant Staff,,,,Southampton,Assistant Soup Cook,LOST,,,French,https://www.encyclopedia-titanica.org/titanic-victim/pierre-leon-gabriel-villvarlange.html
+"DEAN, Mr George Fox Hopkins",1892,1912,19,Male,Victualling Crew,,,,Southampton,Assistant Saloon Steward,LOST,,252,English,https://www.encyclopedia-titanica.org/titanic-victim/george-dean.html
+"OWEN, Mr Lewis",1862,1912,49,Male,Victualling Crew,,,,Southampton,"Assistant Saloon Steward, 2nd Class",LOST,,,Welsh,https://www.encyclopedia-titanica.org/titanic-victim/lewis-owen.html
+"MCANDREW, Mr Thomas Patrick",1874,1912,38,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-mcandrew.html
+"PARSONS, Mr Frank Alfred",1885,1912,26,Male,Engineering Crew,,,,Belfast,Senior 5th. Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frank-alfred-parsons.html
+"MACINTOSH, Mr Joseph",1851,1938,60,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/joseph-macintosh.html
+"HINE, Mr William Edward",1876,1912,36,Male,Victualling Crew,,,,Southampton,3rd Baker,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-edward-hine.html
+"STEEL, Mr Robert Edward",1882,1912,30,Male,Engineering Crew Substitute Crew,,,,Southampton,Trimmer,LOST,,,Channel Islander,https://www.encyclopedia-titanica.org/titanic-victim/robert-edward-steel.html
+"MCKENNA, Mr Barney",1880,1922,32,Male,Engineering Crew,,,,Belfast,Leading Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/barney-mckenna.html
+"SCOVELL, Mr Robert",1857,1912,55,Male,Victualling Crew,,,,Southampton,Saloon Steward (2nd class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/robert-scovell.html
+"CULLEN, Mr Patrick",1876,,36,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/patrick-cullen.html
+"WELCH, Mr William Harold",1890,1912,21,Male,Victualling Crew,,,,Southampton,Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/w-welch.html
+"WEBB, Mr Samuel Francis",1883,1912,28,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/s-webb.html
+"GILL, Mr Joseph Stanley",1873,1912,38,Male,Victualling Crew,,,,Belfast,Bed Room Steward,LOST,,49,English,https://www.encyclopedia-titanica.org/titanic-victim/joseph-stanley-gill.html
+"ALLSOP, Mr Frank Richard",1868,1912,43,Male,Victualling Crew,,,,Belfast,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frank-richard-allsop.html
+"BULEY, Mr Edward John",1885,1917,26,Male,Deck Crew,,,,Southampton,Able Seaman,SAVED,10,,English,https://www.encyclopedia-titanica.org/titanic-survivor/edward-john-buley.html
+"AYLING, Mr Edwin George",1889,1912,23,Male,Victualling Crew,,,,Southampton,Assistant Vegetable Cook,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-edwin-ayling.html
+"CRABB, Mr Henry James",1889,1912,23,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/h-crabb.html
+"KEMISH, Mr George",1889,1966,22,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/george-kemish.html
+"AHIER, Mr Percy Snowden",1892,1912,20,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,Channel Islander,https://www.encyclopedia-titanica.org/titanic-victim/percy-snowden-ahier.html
+"JACKSON, Mr Cecil",1890,1912,22,Male,Victualling Crew,,,,Belfast,Assistant boots steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/cecil-jackson.html
+"RICE, Mr John Reginald",1886,1912,25,Male,Victualling Crew,,,,Southampton,1st Class Clerk,LOST,,64,English,https://www.encyclopedia-titanica.org/titanic-victim/john-reginald-rice.html
+"HENSFORD, Mr Herbert George Ernest",1885,1912,26,Male,Victualling Crew,,,,Southampton,Assistant Butcher,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/herbert-george-hensford.html
+"CONNOR, Mr James",1866,,46,Male,Engineering Crew,,,,Belfast,Greaser,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-connor.html
+"PORT, Mr Frank",1889,1943,22,Male,Victualling Crew,,,,Southampton,Steward,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frank-port.html
+"NIVEN, Mr John Brown",1881,1912,30,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/j-mcgregor.html
+"CURRAN, Mr Thomas",1871,,41,Male,Engineering Crew,,,,Belfast,Greaser,,,,,https://www.encyclopedia-titanica.org/titanic-biography/thomas-curran.html
+"PHILLIPS, Mr George",1885,1912,27,Male,Engineering Crew,,,,Southampton,Greaser,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-phillips.html
+"ALLARIA, Sig. Battista Antonio",1889,1912,22,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,221,Italian,https://www.encyclopedia-titanica.org/titanic-victim/battista-antonio-allaria.html
+"SCOTT, Mr Archibald",1870,1912,42,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/archibald-scott.html
+"HEWITT, Mr Thomas",1875,1912,37,Male,Victualling Crew,,,,Belfast,Bed Room Steward (1st class),LOST,,168,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-hewett.html
+"MCGONIGAL, Mr William",1857,,55,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/w-mcgonagal.html
+"KING, Mr Thomas Walter",1869,1912,42,Male,Deck Crew,,,,Southampton,Master-at-arms,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-walter-king.html
+"SACCAGGI, Mr Giovanni Giuseppe Emilio",1887,1912,24,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/giovanni-giuseppe-emilio-saccaggi.html
+"SMITH, Mr James Muil",1873,1912,39,Male,Engineering Crew,,,,Belfast,Junior 4th. Engineer,LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/james-smith.html
+"BLACK, Mr D.",1871,1912,41,Male,Engineering Crew Substitute Crew,,,,Southampton,Fireman,LOST,,,Scottish,https://www.encyclopedia-titanica.org/titanic-victim/d-black.html
+"SHILLABEER, Mr Charles Frederick",1892,1912,19,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,195,English,https://www.encyclopedia-titanica.org/titanic-victim/charles-frederick-shillabeer.html
+"DOEL, Mr Frederick",1889,1940,22,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/frederick-doel.html
+"MCGANN, Mr James",1882,1918,29,Male,Engineering Crew,,,,Southampton,Trimmer,SAVED,B,,English,https://www.encyclopedia-titanica.org/titanic-survivor/james-mcgann.html
+"SMITH, Mr Walter",1868,1932,44,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/walter-smith.html
+"WELLER, Mr William Clifford",1881,1954,30,Male,Deck Crew,,,,Belfast,Able-bodied Seaman,SAVED,7,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-clifford-weller.html
+"WEIKMAN, Mr Augustus Henry",1860,1924,52,Male,Victualling Crew,,,,Southampton,Barber,SAVED,,,American,https://www.encyclopedia-titanica.org/titanic-survivor/augustus-henry-weikman.html
+"MAJOR, Mr William James",1880,1960,32,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,13,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-james-major.html
+"WRAPSON, Mr Frederick Bernard",1893,1912,18,Male,Victualling Crew,,,,Belfast,Assistant Pantryman Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-bernard-wrapson.html
+"DUNFORD, Mr William",1864,1912,48,Male,Victualling Crew,,,,Southampton,Hospital Steward,LOST,,71,English,https://www.encyclopedia-titanica.org/titanic-victim/william-dunford.html
+"WARD, Mr William John",1887,,25,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/william-ward-2.html
+"SIMMONS, Mr Frederick Charles",1887,1912,24,Male,Victualling Crew,,,,Southampton,Saloon Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-simmons.html
+"DE MARSICO, Sig. Govanni",1892,1912,20,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/govanni-de-marsico.html
+"POND, Mr George",1879,1912,32,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/george-pond.html
+"ADAMS, Mr Robert John",1885,1912,26,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/r-adams.html
+"HOPKINS, Mr Frederick William",1897,1912,14,Male,Victualling Crew,,,,Southampton,Plate Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/f-hopkins.html
+"COLGAN, Mr E. Joseph",1879,,33,Male,Victualling Crew,,,,Southampton,Scullion,SAVED,,,Irish,https://www.encyclopedia-titanica.org/titanic-survivor/e-joseph-colgan.html
+"THOMAS, Mr John",1887,,25,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-thomas.html
+"HILL, Mr Henry Parkinson",1875,1912,37,Male,Victualling Crew,,,,Southampton,Steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/h-hill.html
+"FISH, Mr B.",1874,,38,Male,Victualling Crew Failed to Join Ship,,,,Southampton,First Class Steward,,,,English,https://www.encyclopedia-titanica.org/titanic-biography/fish-b.html
+"HODGKINSON, Mr Leonard",1866,1912,46,Male,Engineering Crew,,,,Belfast,Senior 4th. Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/leonard-hodgkinson.html
+"PAICE, Mr Richard Charles John",1880,1912,32,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/richard-charles-john-paice.html
+"COX, Mr William Denton",1882,1912,30,Male,Victualling Crew,,,,Southampton,Third class steward,LOST,,300,English,https://www.encyclopedia-titanica.org/titanic-victim/william-denton-cox.html
+"SWARBRICK, Mr Joseph",1892,1944,20,Male,Engineering Crew,,,,Belfast,Trimmer,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/joseph-swarbrick.html
+"PARSONS, Mr Edward",1874,1912,37,Male,Victualling Crew,,,,Southampton,Chief Storekeeper (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/edward-parsons.html
+"SAWYER, Mr Robert James",1880,1912,31,Male,Deck Crew,,,,Southampton,Window Cleaner,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/robert-james-sawyer.html
+"DERRETT, Mr Arthur Henry",1883,1912,28,Male,Victualling Crew,,,,Belfast,Saloon Steward (1st class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/albert-derrett.html
+"HUMBY, Mr Frederick",1895,1912,17,Male,Victualling Crew,,,,Southampton,Plate Steward (2nd Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/frederick-humby.html
+"HARVEY, Mr Herbert Gifford",1878,1912,34,Male,Engineering Crew,,,,Belfast,Junior Assistant 2nd. Engineer,LOST,,,Irish,https://www.encyclopedia-titanica.org/titanic-victim/herbert-gifford-harvey.html
+"OTHEN, Mr Charles Alfred",1876,1952,36,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/charles-othen.html
+"WHITE, Mr Arthur",1875,1912,37,Male,Victualling Crew,,,,Southampton,Assistant Barber (1st Class),LOST,,247,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-white.html
+"WARD, Mr Arthur",1888,1912,23,Male,Engineering Crew,,,,Belfast,Junior Assistant 4th. Engineer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/arthur-ward.html
+"MULLHOLLAND, Mr Daniel",1852,1919,60,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/daniel-mullholland.html
+"BEERE, Mr William",1893,1912,19,Male,Victualling Crew,,,,Southampton,Kitchen Porter,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/william-beere.html
+"BARNES, Mr John",1872,1912,39,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/john-barnes.html
+"FREEMAN, Mr Ernest Edward Samuel",1867,1912,45,Male,Victualling Crew,,,,Belfast,Deck Steward (1st Class),LOST,,239,English,https://www.encyclopedia-titanica.org/titanic-victim/ernest-edward-samuel-freeman.html
+"PENNAL, Mr Thomas Frederick Cohen",1878,1912,34,Male,Victualling Crew,,,,Southampton,Bathroom Steward (1st Class),LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-pennal.html
+"LIGHT, Mr Christopher William",1891,1912,20,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/christopher-william-light.html
+"CONNOR, Mr Thomas",1873,,39,Male,Engineering Crew,,,,Belfast,Fireman,,,,,https://www.encyclopedia-titanica.org/titanic-biography/thomas-connor.html
+"PEARCEY, Mr Albert Victor",1887,1952,25,Male,Victualling Crew,,,,Southampton,Pantry Steward (3rd Class),SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/albert-victor-pearcey.html
+"BURNESS, Mr Frank",1869,,43,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/frank-burness.html
+"BLOOMER, Mr James",1860,1927,51,Male,Deck Crew,,,,Belfast,Able Seaman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-bloomer.html
+"RUTTER, Mr Sidney Frank",1885,1912,26,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/sidney-frank-rutter-graves.html
+"CANNER, Mr John",1872,1912,40,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/j-canner.html
+"FITZPATRICK, Mr Hugh Joseph",1883,1912,29,Male,Engineering Crew,,,,Belfast,Junior Boilermaker,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/hugh-fitzpatrick.html
+"HOLLAND, Mr T.",1884,,28,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/t-holland.html
+"KELLAND, Mr Thomas",1892,1912,19,Male,Victualling Crew,,,,Southampton,2nd class library steward,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-kelland.html
+"BOAL, Mr John",1872,,40,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-boal.html
+"HARDER, Mr William",1872,1947,39,Male,Deck Crew,,,,Southampton,Window Cleaner,SAVED,14,,English,https://www.encyclopedia-titanica.org/titanic-survivor/william-harder.html
+"PEROTTI, Sig. Alfonso",1891,1912,20,Male,Restaurant Staff,,,,Southampton,Assistant Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/alfonso-perotti.html
+"PFROPPER, Mr Richard Paul Jozef",1882,1964,30,Male,Victualling Crew,,,,Southampton,Saloon Steward,SAVED,,,German,https://www.encyclopedia-titanica.org/titanic-survivor/richard-pfropper.html
+"DENVER, Mr John",1877,,34,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-denver.html
+"VIONI, Sig. Roberto",1886,1912,25,Male,Restaurant Staff,,,,Southampton,Waiter,LOST,,,Italian,https://www.encyclopedia-titanica.org/titanic-victim/roberto-vioni.html
+"MAYZES, Mr Thomas Jubilee",1887,1928,25,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,3,,English,https://www.encyclopedia-titanica.org/titanic-survivor/thomas-mayzes.html
+"COPPERTHWAITE, Mr Albert Harry",1883,1912,28,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/bert-copperthwaite.html
+"MARTIN, Mr John",1879,1951,33,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/john-martin.html
+"HENRY, Mr James",1856,,56,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/james-henry.html
+"PEARCE, Mr John",1878,1933,33,Male,Engineering Crew,,,,Southampton,Fireman,SAVED,,,English,https://www.encyclopedia-titanica.org/titanic-survivor/john-pearce.html
+"GASS, Mr David",1865,1931,47,Male,Engineering Crew,,,,Belfast,Fireman,,,,Irish,https://www.encyclopedia-titanica.org/titanic-biography/david-gass.html
+"MOORE, Mr Ralph",1890,1912,22,Male,Engineering Crew,,,,Southampton,Trimmer,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/ralph-moore.html
+"HART, Mr James",1858,1912,54,Male,Engineering Crew,,,,Southampton,Fireman,LOST,,,English,https://www.encyclopedia-titanica.org/titanic-victim/thomas-hart.html
+"MAYNARD, Mr Isaac Hiram",1880,1948,31,Male,Victualling Crew,,,,Belfast,Entrée Cook,SAVED,B,,English,https://www.encyclopedia-titanica.org/titanic-survivor/isaac-hiram-maynard.html
