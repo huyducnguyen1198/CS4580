@@ -317,7 +317,7 @@ def balanceDataset(df):
     y = balancedDf['Risk_Flag']
     #performXgboost(x, y)
     #performMLP(x, y) #not good, ~83% accuracy at most
-    #performRandomForest(x, y) #about 85% accuracy, both class are predicted well,  not much diff with weight of 1:10
+    performRandomForest(x, y) #about 85% accuracy, both class are predicted well,  not much diff with weight of 1:10
 
 
     ####unbalanced data
@@ -326,7 +326,7 @@ def balanceDataset(df):
     y = df['Risk_Flag']
     #performXgboost(x, y)
     #performMLP(x, y) #can get up to 88% accuracy
-    #performRandomForest(x, y) #can get up to 89.6% accuracy but label 1 is wildly under predicted
+    performRandomForest(x, y) #can get up to 89.6% accuracy but label 1 is wildly under predicted
 
 
 
@@ -339,5 +339,6 @@ def balanceDataset(df):
 
 def main():
     balanceDataset(df)
+    #plotHouseowershipVsIncome()
 
 main()
