@@ -28,7 +28,7 @@ def readFile(folder='Training'):
         books = []
         for b in bookList:
             with open(f'{authorDir}/{b}', 'r') as f:
-                books.append(f.read())
+                books.append(f.read().lower())
                 bookNames.append(b)
 
         bookByAuthor[a] = books
@@ -48,13 +48,35 @@ def preprocessData(books, tfidf=None):
     tfidfBooks = {}
     x = []
     y = []
+    stop_words = [
+        'a', 'about', 'above', 'after', 'again', 'against', 'all', 'am', 'an', 'and',
+        'any', 'are', "aren't", 'as', 'at', 'austen', 'be', 'because', 'been', 'before',
+        'being', 'below', 'between', 'both', 'but', 'by', "can't", 'cannot', 'could',
+        "couldn't", 'did', "didn't", 'do', 'does', "doesn't", 'doing', "don't", 'down',
+        'during', 'each', 'few', 'for', 'from', 'further', 'had', "hadn't", 'has',
+        "hasn't", 'have', "haven't", 'having', 'he', "he'd", "he'll", "he's", 'her',
+        'here', "here's", 'hers', 'herself', 'him', 'himself', 'his', 'how', "how's",
+        'i', "i'd", "i'll", "i'm", "i've", 'if', 'in', 'into', 'is', "isn't", 'it',
+        "it's", 'its', 'itself', "let's", 'me', 'more', 'most', "mustn't", 'my',
+        'myself', 'no', 'nor', 'not', 'of', 'off', 'on', 'once', 'only', 'or', 'other',
+        'ought', 'our', 'ours', 'ourselves', 'out', 'over', 'own', 'same', "shan't",
+        'she', "she'd", "she'll", "she's", 'should', "shouldn't", 'so', 'some', 'such',
+        'than', 'that', "that's", 'the', 'their', 'theirs', 'them', 'themselves', 'then',
+        'there', "there's", 'these', 'they', "they'd", "they'll", "they're", "they've",
+        'this', 'those', 'through', 'to', 'too', 'under', 'until', 'up', 'verne', 'very',
+        'was', "wasn't", 'we', "we'd", "we'll", "we're", "we've", 'were', "weren't",
+        'what', "what's", 'when', "when's", 'where', "where's", 'which', 'while', 'who',
+        "who's", 'whom', 'why', "why's", 'with', "won't", 'would', "wouldn't", 'you',
+        "you'd", "you'll", "you're", "you've", 'your', 'yours', 'yourself', 'yourselves',
+        'baum'
+    ]
 
     for a in authors:
         x.extend(books[a])
         y.extend([a] * len(books[a]))
 
     if tfidf is None:
-        tfidf = TfidfVectorizer()
+        tfidf = TfidfVectorizer(stop_words=stop_words)
         x = tfidf.fit_transform(x).toarray()
     else:
         x = tfidf.transform(x).toarray()
@@ -188,15 +210,7 @@ def training():
             continue
         author = extract_author(book)
 
-        #print author fromt the list of authors inform Authors: 1. name, 2. name, 3. name
-        print(f'{"Authors:":>15}', end=' ')
-        for i, a in enumerate(authors):
-            print(f'{i+1}. {a}', end=', ')
-        print()
-        choice = -1
-        while choice < 0 or choice > len(authors):
-            choice = int(input("Enter the number of the author: "))
-        guessAuthor = authors[choice-1]
+
 
         # predict the author
         bayes_pred = bayes.predict(tfidf.transform([book]).toarray())[0]
@@ -209,14 +223,23 @@ def training():
         print(f'{"Algorithm 2:":>15}{"SVM":>20}: {svm_pred:>15}')
         print(f'{"Algorithm 3:":>15}{"XGBoost":>20}: {xg_pred:>15}')
         print(f'{"Algorithm 4:":>15}{"Random Forest":>20}: {rf_pred:>15}')
-        print(f'{"Guess author":>35}: {guessAuthor:>15}')
-        print(f'{"Real author":>35}: {author:>15}')
+        print()
+        # print author fromt the list of authors inform Authors: 1. name, 2. name, 3. name
+        print(f'{"Authors:":>15}', end=' ')
+        for i, a in enumerate(authors):
+            print(f'{i + 1}. {a}', end=', ')
+        print()
+        choice = -1
+        while choice < 0 or choice > len(authors):
+            try:
+                choice = int(input("Enter the number of the author: "))
+            except:
+                continue
 
-        # check if the guess author is correct
-        if guessAuthor.lower() in author.lower():
-            point += 1
-            print("Correct!")
-            print(f'{"Point":>35}: {point:>15}')
+        guessAuthor = authors[choice-1]
+
+        print(f'{"Your choice":>35}: {guessAuthor:>15}')
+
 
     with open('point.txt', 'w') as f:
         f.write(f'{point}')
